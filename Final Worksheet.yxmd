@@ -1,0 +1,1347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">Economy.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Economy.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Consumer Confidence Index TX" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Consumer Confidence Index US" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Consumer Price Index TX" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Consumer Price Index U.S." size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Nonfarm Employment TX" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Nonfarm Employment U.S." size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Unemployment TX" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Unemployment U.S." size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+            <Field name="County" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+            <Field name="Region" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+            <Field name="Child Population" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+            <Field name="% of Children in Total Population" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+            <Field name="Total Population" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="654" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Year" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Year" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Year" selected="True" rename="Right_Year" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="MedianNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment TX" scale="2" size="19" source="Summarize: MedianNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment U.S." scale="2" size="19" source="Summarize: MedianNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment TX" scale="2" size="19" source="Summarize: AvgNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment U.S." scale="2" size="19" source="Summarize: AvgNo0 - Unemployment U.S." type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="MedianNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment TX" scale="2" size="19" source="Summarize: MedianNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment U.S." scale="2" size="19" source="Summarize: MedianNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment TX" scale="2" size="19" source="Summarize: AvgNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment U.S." scale="2" size="19" source="Summarize: AvgNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="Right_Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="AvgNo0_Child Population" scale="2" size="19" source="Summarize: AvgNo0 - Child Population" type="FixedDecimal" />
+            <Field name="AvgNo0_Total Population" scale="2" size="19" source="Summarize: AvgNo0 - Total Population" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="AvgNo0_Child Population" scale="2" size="19" source="Summarize: AvgNo0 - Child Population" type="FixedDecimal" />
+            <Field name="AvgNo0_Total Population" scale="2" size="19" source="Summarize: AvgNo0 - Total Population" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="186" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Year" selected="True" size="2147483647" />
+            <SelectField field="Child Population" selected="True" type="Float" size="4" />
+            <SelectField field="% of Children in Total Population" selected="True" type="Float" size="4" />
+            <SelectField field="Total Population" selected="True" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="V_String" />
+            <Field name="Child Population" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="Float" />
+            <Field name="% of Children in Total Population" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="Float" />
+            <Field name="Total Population" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\CPI_1.1_Texas_Child_Population__ages_0-17__by_County_2014-2023_20240405.csv" type="Float" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="198" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Year" selected="True" size="2147483647" />
+            <SelectField field="Consumer Confidence Index TX" selected="True" type="Float" size="4" />
+            <SelectField field="Consumer Confidence Index US" selected="True" type="Float" size="4" />
+            <SelectField field="Consumer Price Index TX" selected="True" type="Float" size="4" />
+            <SelectField field="Consumer Price Index U.S." selected="True" type="Float" size="4" />
+            <SelectField field="Unemployment TX" selected="True" type="Float" size="4" />
+            <SelectField field="Unemployment U.S." selected="True" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="V_String" />
+            <Field name="Consumer Confidence Index TX" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="Float" />
+            <Field name="Consumer Confidence Index US" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="Float" />
+            <Field name="Consumer Price Index TX" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="Float" />
+            <Field name="Consumer Price Index U.S." source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="Float" />
+            <Field name="Unemployment TX" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="Float" />
+            <Field name="Unemployment U.S." source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Economy.csv" type="Float" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="330" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Year" action="GroupBy" rename="Year" />
+            <SummarizeField field="Child Population" action="AvgNo0" rename="AvgNo0_Child Population" />
+            <SummarizeField field="Total Population" action="AvgNo0" rename="AvgNo0_Total Population" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="AvgNo0_Child Population" source="Summarize: AvgNo0 - Child Population" type="Double" />
+            <Field name="AvgNo0_Total Population" source="Summarize: AvgNo0 - Total Population" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="318" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Year" action="GroupBy" rename="Year" />
+            <SummarizeField field="Consumer Confidence Index TX" action="MedianNo0" rename="MedianNo0_Consumer Confidence Index TX" />
+            <SummarizeField field="Consumer Confidence Index US" action="MedianNo0" rename="MedianNo0_Consumer Confidence Index US" />
+            <SummarizeField field="Consumer Confidence Index TX" action="AvgNo0" rename="AvgNo0_Consumer Confidence Index TX" />
+            <SummarizeField field="Consumer Confidence Index US" action="AvgNo0" rename="AvgNo0_Consumer Confidence Index US" />
+            <SummarizeField field="Consumer Price Index TX" action="MedianNo0" rename="MedianNo0_Consumer Price Index TX" />
+            <SummarizeField field="Consumer Price Index U.S." action="MedianNo0" rename="MedianNo0_Consumer Price Index U.S." />
+            <SummarizeField field="Consumer Price Index TX" action="AvgNo0" rename="AvgNo0_Consumer Price Index TX" />
+            <SummarizeField field="Consumer Price Index U.S." action="AvgNo0" rename="AvgNo0_Consumer Price Index U.S." />
+            <SummarizeField field="Unemployment TX" action="MedianNo0" rename="MedianNo0_Unemployment TX" />
+            <SummarizeField field="Unemployment U.S." action="MedianNo0" rename="MedianNo0_Unemployment U.S." />
+            <SummarizeField field="Unemployment TX" action="AvgNo0" rename="AvgNo0_Unemployment TX" />
+            <SummarizeField field="Unemployment U.S." action="AvgNo0" rename="AvgNo0_Unemployment U.S." />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="MedianNo0_Consumer Confidence Index TX" source="Summarize: MedianNo0 - Consumer Confidence Index TX" type="Double" />
+            <Field name="MedianNo0_Consumer Confidence Index US" source="Summarize: MedianNo0 - Consumer Confidence Index US" type="Double" />
+            <Field name="AvgNo0_Consumer Confidence Index TX" source="Summarize: AvgNo0 - Consumer Confidence Index TX" type="Double" />
+            <Field name="AvgNo0_Consumer Confidence Index US" source="Summarize: AvgNo0 - Consumer Confidence Index US" type="Double" />
+            <Field name="MedianNo0_Consumer Price Index TX" source="Summarize: MedianNo0 - Consumer Price Index TX" type="Double" />
+            <Field name="MedianNo0_Consumer Price Index U.S." source="Summarize: MedianNo0 - Consumer Price Index U.S." type="Double" />
+            <Field name="AvgNo0_Consumer Price Index TX" source="Summarize: AvgNo0 - Consumer Price Index TX" type="Double" />
+            <Field name="AvgNo0_Consumer Price Index U.S." source="Summarize: AvgNo0 - Consumer Price Index U.S." type="Double" />
+            <Field name="MedianNo0_Unemployment TX" source="Summarize: MedianNo0 - Unemployment TX" type="Double" />
+            <Field name="MedianNo0_Unemployment U.S." source="Summarize: MedianNo0 - Unemployment U.S." type="Double" />
+            <Field name="AvgNo0_Unemployment TX" source="Summarize: AvgNo0 - Unemployment TX" type="Double" />
+            <Field name="AvgNo0_Unemployment U.S." source="Summarize: AvgNo0 - Unemployment U.S." type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="462" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Year" selected="True" />
+            <SelectField field="MedianNo0_Consumer Confidence Index TX" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="MedianNo0_Consumer Confidence Index US" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Consumer Confidence Index TX" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Consumer Confidence Index US" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="MedianNo0_Consumer Price Index TX" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="MedianNo0_Consumer Price Index U.S." selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Consumer Price Index TX" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Consumer Price Index U.S." selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="MedianNo0_Unemployment TX" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="MedianNo0_Unemployment U.S." selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Unemployment TX" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Unemployment U.S." selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="MedianNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment TX" scale="2" size="19" source="Summarize: MedianNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment U.S." scale="2" size="19" source="Summarize: MedianNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment TX" scale="2" size="19" source="Summarize: AvgNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment U.S." scale="2" size="19" source="Summarize: AvgNo0 - Unemployment U.S." type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="438" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="AvgNo0_Child Population" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="AvgNo0_Total Population" selected="True" type="FixedDecimal" size="19.2" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="AvgNo0_Child Population" scale="2" size="19" source="Summarize: AvgNo0 - Child Population" type="FixedDecimal" />
+            <Field name="AvgNo0_Total Population" scale="2" size="19" source="Summarize: AvgNo0 - Total Population" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="546" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Year" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Year - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="MedianNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment TX" scale="2" size="19" source="Summarize: MedianNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment U.S." scale="2" size="19" source="Summarize: MedianNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment TX" scale="2" size="19" source="Summarize: AvgNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment U.S." scale="2" size="19" source="Summarize: AvgNo0 - Unemployment U.S." type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="546" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Year" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Year - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="AvgNo0_Child Population" scale="2" size="19" source="Summarize: AvgNo0 - Child Population" type="FixedDecimal" />
+            <Field name="AvgNo0_Total Population" scale="2" size="19" source="Summarize: AvgNo0 - Total Population" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="810" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\HP\AppData\Local\Temp\Engine_12648_478ceed9e80aea40a57c12cbdaffaeb7_\Engine_12648_2a0e291a62569843b4bfd8594142c1e3~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="846" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">Joined Data.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Joined Data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="762" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Year" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Year - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="MedianNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Confidence Index US" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Confidence Index US" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: MedianNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index TX" scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Consumer Price Index U.S." scale="2" size="19" source="Summarize: AvgNo0 - Consumer Price Index U.S." type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment TX" scale="2" size="19" source="Summarize: MedianNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="MedianNo0_Unemployment U.S." scale="2" size="19" source="Summarize: MedianNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment TX" scale="2" size="19" source="Summarize: AvgNo0 - Unemployment TX" type="FixedDecimal" />
+            <Field name="AvgNo0_Unemployment U.S." scale="2" size="19" source="Summarize: AvgNo0 - Unemployment U.S." type="FixedDecimal" />
+            <Field name="Right_Year" size="2147483647" source="Summarize: GroupBy - Year" type="V_String" />
+            <Field name="AvgNo0_Child Population" scale="2" size="19" source="Summarize: AvgNo0 - Child Population" type="FixedDecimal" />
+            <Field name="AvgNo0_Total Population" scale="2" size="19" source="Summarize: AvgNo0 - Total Population" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">Winners_List_of_Texas_Lottery__Prizes_20240405.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Winners_List_of_Texas_Lottery__Prizes_20240405.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Row ID" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claim Number" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Amount Won" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Date Claim Paid" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Player ID" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Annuity Indicator" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Anonymous Indicator" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claim Center Location" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claim Type" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="US Citizen Flag" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Last Name" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="First Name" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant Name and Player ID" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant City" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant State" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant County" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant Country" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Prize or Merchandise Indicator" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Scratch Ticket or Draw Game" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Date of Draw" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Draw Time of Day" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Prize Level" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Date Ticket Sold" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Scratch Ticket Game Number" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Scratch Ticket Cost" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Number" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Name" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Number and Name" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Address 1" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Address 2" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer City" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer State" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Zip Code" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer Zip Code +4" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Retailer County" size="254" source="File: C:\Users\HP\OneDrive\Desktop\Alteryx\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Row ID" selected="False" />
+            <SelectField field="Claim Number" selected="False" />
+            <SelectField field="Player ID" selected="True" />
+            <SelectField field="Claimant State" selected="True" />
+            <SelectField field="US Citizen Flag" selected="True" />
+            <SelectField field="Scratch Ticket or Draw Game" selected="True" />
+            <SelectField field="Amount Won" selected="True" type="FixedDecimal" size="19.6" />
+            <SelectField field="Date Claim Paid" selected="False" />
+            <SelectField field="Annuity Indicator" selected="False" />
+            <SelectField field="Anonymous Indicator" selected="False" />
+            <SelectField field="Claim Center Location" selected="False" />
+            <SelectField field="Claim Type" selected="False" />
+            <SelectField field="Last Name" selected="False" />
+            <SelectField field="First Name" selected="False" />
+            <SelectField field="Claimant Name and Player ID" selected="False" />
+            <SelectField field="Claimant City" selected="False" />
+            <SelectField field="Claimant County" selected="False" />
+            <SelectField field="Claimant Country" selected="False" />
+            <SelectField field="Prize or Merchandise Indicator" selected="False" />
+            <SelectField field="Date of Draw" selected="False" />
+            <SelectField field="Draw Time of Day" selected="False" />
+            <SelectField field="Prize Level" selected="False" />
+            <SelectField field="Date Ticket Sold" selected="False" />
+            <SelectField field="Scratch Ticket Game Number" selected="False" />
+            <SelectField field="Scratch Ticket Cost" selected="False" />
+            <SelectField field="Retailer Number" selected="False" />
+            <SelectField field="Retailer Name" selected="False" />
+            <SelectField field="Retailer Number and Name" selected="False" />
+            <SelectField field="Retailer Address 1" selected="False" />
+            <SelectField field="Retailer Address 2" selected="False" />
+            <SelectField field="Retailer City" selected="False" />
+            <SelectField field="Retailer State" selected="False" />
+            <SelectField field="Retailer Zip Code" selected="False" />
+            <SelectField field="Retailer Zip Code +4" selected="False" />
+            <SelectField field="Retailer County" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Player ID" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant State" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="US Citizen Flag" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Scratch Ticket or Draw Game" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Amount Won" scale="6" size="19" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="582" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="State" action="GroupBy" rename="State" />
+            <SummarizeField field="Amount Won" action="Sum" rename="Sum_Amount Won" />
+            <SummarizeField field="Player ID" action="Count" rename="Count" />
+            <SummarizeField field="Amount Won" action="Avg" rename="Avg_Amount Won" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="State" size="1073741823" source="Summarize: GroupBy - State" type="V_WString" />
+            <Field name="Sum_Amount Won" scale="6" size="19" source="Summarize: Sum - Amount Won" type="FixedDecimal" />
+            <Field name="Count" source="Summarize: Count - State" type="Int64" />
+            <Field name="Avg_Amount Won" source="Summarize: Avg - Amount Won" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="PlotlyCharting">
+        <Position x="726" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ChartingFields>
+            <Traces json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+              <type>pie</type>
+              <valuessrc>Avg_Amount Won</valuessrc>
+              <labelssrc>State</labelssrc>
+              <marker>
+                <line>
+                  <width>0</width>
+                </line>
+              </marker>
+            </Traces>
+            <Layout>
+              <title>
+                <text>Average "Lottery Amount" won within each GROUP (TX vs Others)</text>
+              </title>
+              <font>
+                <family>sans-serif</family>
+              </font>
+              <autosize>false</autosize>
+              <width>700</width>
+              <height>849</height>
+              <showlegend>true</showlegend>
+              <hovermode>closest</hovermode>
+              <xaxis>
+                <range>-1</range>
+                <range>6</range>
+                <autorange>true</autorange>
+              </xaxis>
+              <yaxis>
+                <range>-1</range>
+                <range>4</range>
+                <autorange>true</autorange>
+              </yaxis>
+              <legend>
+                <font>
+                  <size>12</size>
+                </font>
+                <borderwidth>0</borderwidth>
+                <x>0.8286325455890674</x>
+                <y>0.94768310911808673</y>
+              </legend>
+              <margin>
+                <pad>0</pad>
+                <t>100</t>
+                <b>80</b>
+                <l>80</l>
+                <r>80</r>
+              </margin>
+              <annotations json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+                <text>
+                </text>
+                <font>
+                  <size>13</size>
+                </font>
+                <textangle>0</textangle>
+                <arrowwidth>2</arrowwidth>
+                <x>0.10869565217391297</x>
+                <y>0.89910313901345285</y>
+                <ax>-125</ax>
+                <ay>38</ay>
+                <showarrow>false</showarrow>
+              </annotations>
+            </Layout>
+          </ChartingFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Chart" size="1073741823" source="Report:Chart:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="ComposerInteractiveCharting" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="342" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Claimant State]='TX' THEN 'TX' ELSE 'Other' ENDIF" field="State" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[State = IF [Claimant State]='TX' THEN 'TX' ELSE 'Other' ENDIF
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Player ID" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Claimant State" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="US Citizen Flag" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Scratch Ticket or Draw Game" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Amount Won" scale="6" size="19" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="FixedDecimal" />
+            <Field name="State" size="1073741823" source="Formula: IF [Claimant State]='TX' THEN 'TX' ELSE 'Other' ENDIF" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="342" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="US Citizen Flag" action="GroupBy" rename="US Citizen Flag" />
+            <SummarizeField field="Amount Won" action="Sum" rename="Sum_Amount Won" />
+            <SummarizeField field="Player ID" action="Count" rename="Count" />
+            <SummarizeField field="Amount Won" action="Avg" rename="Avg_Amount Won" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="US Citizen Flag" size="254" source="Summarize: GroupBy - US Citizen Flag" type="V_String" />
+            <Field name="Sum_Amount Won" scale="6" size="19" source="Summarize: Sum - Amount Won" type="FixedDecimal" />
+            <Field name="Count" source="Summarize: Count - US Citizen Flag" type="Int64" />
+            <Field name="Avg_Amount Won" source="Summarize: Avg - Amount Won" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="PlotlyCharting">
+        <Position x="414" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ChartingFields>
+            <Traces json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+              <type>pie</type>
+              <valuessrc>Avg_Amount Won</valuessrc>
+              <labelssrc>US Citizen Flag</labelssrc>
+              <marker>
+                <line>
+                  <width>0</width>
+                </line>
+              </marker>
+            </Traces>
+            <Layout>
+              <title>
+                <text>Average "Lottery Amount" won within each GROUP (TX vs Others)</text>
+              </title>
+              <font>
+                <family>sans-serif</family>
+              </font>
+              <autosize>false</autosize>
+              <width>700</width>
+              <height>849</height>
+              <showlegend>true</showlegend>
+              <hovermode>closest</hovermode>
+              <xaxis>
+                <range>-1</range>
+                <range>6</range>
+                <autorange>true</autorange>
+              </xaxis>
+              <yaxis>
+                <range>-1</range>
+                <range>4</range>
+                <autorange>true</autorange>
+              </yaxis>
+              <legend>
+                <font>
+                  <size>12</size>
+                </font>
+                <borderwidth>0</borderwidth>
+                <x>0.8286325455890674</x>
+                <y>0.94768310911808673</y>
+              </legend>
+              <margin>
+                <pad>0</pad>
+                <t>100</t>
+                <b>80</b>
+                <l>80</l>
+                <r>80</r>
+              </margin>
+              <annotations json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+                <text>
+                </text>
+                <font>
+                  <size>13</size>
+                </font>
+                <textangle>0</textangle>
+                <arrowwidth>2</arrowwidth>
+                <x>0.10869565217391297</x>
+                <y>0.89910313901345285</y>
+                <ax>-125</ax>
+                <ay>38</ay>
+                <showarrow>false</showarrow>
+              </annotations>
+            </Layout>
+          </ChartingFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Chart" size="1073741823" source="Report:Chart:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="ComposerInteractiveCharting" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Claim Number" selected="True" />
+            <SelectField field="Amount Won" selected="True" />
+            <SelectField field="Date Claim Paid" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Claim Number" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Amount Won" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Date Claim Paid" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="270" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Date Claim Paid</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>Date Claim Paid</RootName>
+          <Delimeters value="/" />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Claim Number" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Amount Won" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Date Claim Paid" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid1" size="254" source="TextToColumns: Parsed from Date Claim Paid" type="V_String" />
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid2" size="254" source="TextToColumns: Parsed from Date Claim Paid" type="V_String" />
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid3" size="254" source="TextToColumns: Parsed from Date Claim Paid" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="366" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Date Claim Paid3" selected="True" type="Int64" size="8" />
+            <SelectField field="Claim Number" selected="True" />
+            <SelectField field="Amount Won" selected="True" type="FixedDecimal" size="19.6" />
+            <SelectField field="Date Claim Paid" selected="False" />
+            <SelectField field="Date Claim Paid1" selected="False" />
+            <SelectField field="Date Claim Paid2" selected="False" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid3" source="TextToColumns: Parsed from Date Claim Paid" type="Int64" />
+            <Field name="Claim Number" size="254" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="V_String" />
+            <Field name="Amount Won" scale="6" size="19" source="File: C:\Users\vasan\Downloads\Winners_List_of_Texas_Lottery__Prizes_20240405.csv" type="FixedDecimal" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="462" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Date Claim Paid3" action="GroupBy" rename="Date Claim Paid3" />
+            <SummarizeField field="Amount Won" action="Sum" rename="Sum_Amount Won" />
+            <SummarizeField field="Amount Won" action="Count" rename="Count" />
+            <SummarizeField field="Amount Won" action="Avg" rename="Avg_Amount Won" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid3" source="Summarize: GroupBy - Date Claim Paid3" type="Int64" />
+            <Field name="Sum_Amount Won" scale="6" size="19" source="Summarize: Sum - Amount Won" type="FixedDecimal" />
+            <Field name="Count" source="Summarize: Count - Date Claim Paid3" type="Int64" />
+            <Field name="Avg_Amount Won" source="Summarize: Avg - Amount Won" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="582" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Date Claim Paid3" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Date Claim Paid3 - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid3" source="Summarize: GroupBy - Date Claim Paid3" type="Int64" />
+            <Field name="Sum_Amount Won" scale="6" size="19" source="Summarize: Sum - Amount Won" type="FixedDecimal" />
+            <Field name="Count" source="Summarize: Count - Date Claim Paid3" type="Int64" />
+            <Field name="Avg_Amount Won" source="Summarize: Avg - Amount Won" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="PlotlyCharting">
+        <Position x="858" y="618" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ChartingFields>
+            <Traces json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+              <type>scatter</type>
+              <mode>lines</mode>
+              <xsrc>Date Claim Paid3</xsrc>
+              <ysrc>Count</ysrc>
+            </Traces>
+            <Layout>
+              <title>
+                <text>"Number of Lottery Winners" over the Years</text>
+              </title>
+              <font>
+                <family>sans-serif</family>
+              </font>
+              <autosize>false</autosize>
+              <width>700</width>
+              <height>849</height>
+              <showlegend>true</showlegend>
+              <hovermode>closest</hovermode>
+              <xaxis>
+                <range>1990</range>
+                <range>2031</range>
+                <autorange>false</autorange>
+                <title>
+                  <text>Year</text>
+                </title>
+                <type>linear</type>
+                <tickfont>
+                  <size>12</size>
+                </tickfont>
+                <nticks>0</nticks>
+              </xaxis>
+              <yaxis>
+                <range>-44427.83796877753</range>
+                <range>203882.46376835241</range>
+                <autorange>false</autorange>
+                <title>
+                  <text>Number of Winners</text>
+                </title>
+                <type>linear</type>
+              </yaxis>
+            </Layout>
+          </ChartingFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Chart" size="1073741823" source="Report:Chart:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="ComposerInteractiveCharting" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="678" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>!=</Operator>
+            <Field>Date Claim Paid3</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-04-05 12:21:54</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2024</Operand>
+              <StartDate>2024-04-05 12:21:54</StartDate>
+              <EndDate>2024-04-05 12:21:54</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Date Claim Paid3] != 2024</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid3" source="Summarize: GroupBy - Date Claim Paid3" type="Int64" />
+            <Field name="Sum_Amount Won" scale="6" size="19" source="Summarize: Sum - Amount Won" type="FixedDecimal" />
+            <Field name="Count" source="Summarize: Count - Date Claim Paid3" type="Int64" />
+            <Field name="Avg_Amount Won" source="Summarize: Avg - Amount Won" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Date Claim Paid" name="Date Claim Paid3" source="Summarize: GroupBy - Date Claim Paid3" type="Int64" />
+            <Field name="Sum_Amount Won" scale="6" size="19" source="Summarize: Sum - Amount Won" type="FixedDecimal" />
+            <Field name="Count" source="Summarize: Count - Date Claim Paid3" type="Int64" />
+            <Field name="Avg_Amount Won" source="Summarize: Avg - Amount Won" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Join" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Join" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="3" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="3" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="True" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="45bbf558-a2df-453f-9622-a571f251b923" />
+      <Telemetry>
+        <PreviousWorkflowId value="811a74cb-63bd-4c9a-b971-1718502e5b3c" />
+        <OriginWorkflowId value="811a74cb-63bd-4c9a-b971-1718502e5b3c" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,2551 @@
+Year,County,Region,Child Population,% of Children in Total Population,Total Population
+2023,Anderson,4-Tyler,6020,10.37,58031
+2023,Andrews,9-Midland,4347,17.03,25522
+2023,Angelina,5-Beaumont,12942,14.18,91271
+2023,Aransas,11-Edinburg,3114,10.64,29270
+2023,Archer,2-Abilene,911,11.07,8228
+2023,Armstrong,1-Lubbock,204,10.46,1950
+2023,Atascosa,8-San Antonio,7527,13.85,54335
+2023,Austin,6-Houston,3922,12.66,30974
+2023,Bailey,1-Lubbock,1341,17.03,7874
+2023,Bandera,8-San Antonio,1898,8.84,21466
+2023,Bastrop,7-Austin,12256,13.63,89909
+2023,Baylor,2-Abilene,466,12.87,3621
+2023,Bee,11-Edinburg,4144,11.78,35184
+2023,Bell,7-Austin,58476,15.96,366458
+2023,Bexar,8-San Antonio,302210,13.64,2214963
+2023,Blanco,7-Austin,1138,9.64,11804
+2023,Borden,9-Midland,58,8.29,700
+2023,Bosque,7-Austin,1968,11.16,17633
+2023,Bowie,4-Tyler,10742,11.63,92377
+2023,Brazoria,6-Houston,55255,13.91,397126
+2023,Brazos,7-Austin,30024,12.42,241769
+2023,Brewster,10-El Paso,1078,11.93,9033
+2023,Briscoe,1-Lubbock,178,11.51,1546
+2023,Brooks,11-Edinburg,995,13.93,7144
+2023,Brown,2-Abilene,4678,12,38996
+2023,Burleson,7-Austin,2271,12.68,17912
+2023,Burnet,7-Austin,5718,11.46,49893
+2023,Caldwell,7-Austin,6433,13.91,46261
+2023,Calhoun,8-San Antonio,3075,13.27,23166
+2023,Callahan,2-Abilene,1384,10.26,13494
+2023,Cameron,11-Edinburg,67479,15.6,432436
+2023,Camp,4-Tyler,1829,13.44,13609
+2023,Carson,1-Lubbock,699,12.16,5748
+2023,Cass,4-Tyler,3598,11.94,30123
+2023,Castro,1-Lubbock,976,14.24,6852
+2023,Chambers,6-Houston,6410,14.19,45161
+2023,Cherokee,4-Tyler,7441,14.2,52396
+2023,Childress,1-Lubbock,784,11.14,7035
+2023,Clay,2-Abilene,1039,10.97,9473
+2023,Cochran,1-Lubbock,525,15.32,3426
+2023,Coke,9-Midland,354,11.07,3199
+2023,Coleman,2-Abilene,1055,12.6,8373
+2023,Collin,3-Arlington,153966,13.61,1131673
+2023,Collingsworth,1-Lubbock,494,15.08,3276
+2023,Colorado,6-Houston,2796,13.08,21376
+2023,Comal,8-San Antonio,19706,12.13,162442
+2023,Comanche,2-Abilene,1574,12.33,12767
+2023,Concho,9-Midland,304,7.31,4160
+2023,Cooke,3-Arlington,5092,12.7,40085
+2023,Coryell,7-Austin,10815,13.6,79516
+2023,Cottle,2-Abilene,170,11.24,1513
+2023,Crane,9-Midland,1054,15.26,6908
+2023,Crockett,9-Midland,542,13.19,4110
+2023,Crosby,1-Lubbock,945,14.36,6582
+2023,Culberson,10-El Paso,221,10.09,2191
+2023,Dallam,1-Lubbock,1298,17.51,7414
+2023,Dallas,3-Arlington,411894,14.47,2845619
+2023,Dawson,9-Midland,1842,13.62,13528
+2023,DeWitt,8-San Antonio,2600,11.69,22238
+2023,Deaf Smith,1-Lubbock,2957,16.55,17865
+2023,Delta,4-Tyler,634,11.78,5382
+2023,Denton,3-Arlington,127974,13,984554
+2023,Dickens,1-Lubbock,164,7.81,2101
+2023,Dimmit,8-San Antonio,1959,15.77,12426
+2023,Donley,1-Lubbock,353,10.62,3325
+2023,Duval,11-Edinburg,1621,13.86,11698
+2023,Eastland,2-Abilene,2212,12.27,18022
+2023,Ector,9-Midland,32814,16.15,203192
+2023,Edwards,8-San Antonio,219,11.21,1953
+2023,El Paso,10-El Paso,130441,14.55,896675
+2023,Ellis,3-Arlington,25998,13.9,187001
+2023,Erath,3-Arlington,5044,11.79,42775
+2023,Falls,7-Austin,1823,11.19,16285
+2023,Fannin,3-Arlington,3748,10.78,34753
+2023,Fayette,7-Austin,3290,12.35,26642
+2023,Fisher,2-Abilene,460,11.56,3980
+2023,Floyd,1-Lubbock,721,12.77,5645
+2023,Foard,2-Abilene,133,10.78,1234
+2023,Fort Bend,6-Houston,127261,13.58,936811
+2023,Franklin,4-Tyler,1492,13.57,10996
+2023,Freestone,7-Austin,2423,12.21,19844
+2023,Frio,8-San Antonio,2697,12.86,20965
+2023,Gaines,9-Midland,4369,18.46,23668
+2023,Galveston,6-Houston,49984,13.29,376165
+2023,Garza,1-Lubbock,820,11.92,6882
+2023,Gillespie,8-San Antonio,2783,10.42,26721
+2023,Glasscock,9-Midland,159,11.26,1412
+2023,Goliad,8-San Antonio,862,10.93,7886
+2023,Gonzales,8-San Antonio,3115,14.3,21790
+2023,Gray,1-Lubbock,3433,13.76,24942
+2023,Grayson,3-Arlington,17535,13.01,134751
+2023,Gregg,4-Tyler,17925,14.16,126594
+2023,Grimes,7-Austin,3554,12.03,29553
+2023,Guadalupe,8-San Antonio,24701,13.39,184455
+2023,Hale,1-Lubbock,4736,14.67,32291
+2023,Hall,1-Lubbock,410,12.43,3298
+2023,Hamilton,7-Austin,1015,12.38,8200
+2023,Hansford,1-Lubbock,911,15.37,5926
+2023,Hardeman,2-Abilene,497,12.97,3832
+2023,Hardin,5-Beaumont,7103,12.48,56932
+2023,Harris,6-Houston,762344,14.5,5258527
+2023,Harrison,4-Tyler,9658,14.01,68931
+2023,Hartley,1-Lubbock,654,10.69,6119
+2023,Haskell,2-Abilene,678,10.71,6330
+2023,Hays,7-Austin,33438,12.67,263970
+2023,Hemphill,1-Lubbock,908,18.05,5031
+2023,Henderson,4-Tyler,9421,11.53,81679
+2023,Hidalgo,11-Edinburg,141693,15.78,897703
+2023,Hill,7-Austin,4628,12.98,35666
+2023,Hockley,1-Lubbock,3571,14.21,25129
+2023,Hood,3-Arlington,6890,11.31,60915
+2023,Hopkins,4-Tyler,4813,12.84,37472
+2023,Houston,5-Beaumont,2477,11.1,22321
+2023,Howard,9-Midland,5450,12.54,43463
+2023,Hudspeth,10-El Paso,341,10.02,3404
+2023,Hunt,3-Arlington,12233,12.45,98269
+2023,Hutchinson,1-Lubbock,2913,13.63,21372
+2023,Irion,9-Midland,138,9.18,1503
+2023,Jack,2-Abilene,1052,11.96,8793
+2023,Jackson,8-San Antonio,2407,14.62,16469
+2023,Jasper,5-Beaumont,4432,12.56,35288
+2023,Jeff Davis,10-El Paso,211,10.27,2054
+2023,Jefferson,5-Beaumont,32816,12.61,260138
+2023,Jim Hogg,11-Edinburg,791,15.83,4997
+2023,Jim Wells,11-Edinburg,6531,15.06,43372
+2023,Johnson,3-Arlington,24704,13.86,178297
+2023,Jones,2-Abilene,1782,9.08,19626
+2023,Karnes,8-San Antonio,1873,11.96,15658
+2023,Kaufman,3-Arlington,18261,13.75,132834
+2023,Kendall,8-San Antonio,6460,12.52,51591
+2023,Kenedy,11-Edinburg,58,11.84,490
+2023,Kent,2-Abilene,82,10.21,803
+2023,Kerr,8-San Antonio,5817,10.95,53104
+2023,Kimble,9-Midland,435,10.25,4245
+2023,King,1-Lubbock,28,8.75,320
+2023,Kinney,8-San Antonio,406,11.76,3453
+2023,Kleberg,11-Edinburg,3977,12.92,30792
+2023,Knox,2-Abilene,583,14.51,4017
+2023,La Salle,8-San Antonio,884,10.02,8825
+2023,Lamar,4-Tyler,6151,12.33,49897
+2023,Lamb,1-Lubbock,1697,13.64,12440
+2023,Lampasas,7-Austin,2508,11.68,21467
+2023,Lavaca,8-San Antonio,2885,13.46,21426
+2023,Lee,7-Austin,2422,13.55,17881
+2023,Leon,7-Austin,2187,12.15,18006
+2023,Liberty,6-Houston,11986,13.56,88390
+2023,Limestone,7-Austin,2877,12.2,23579
+2023,Lipscomb,1-Lubbock,507,13.44,3773
+2023,Live Oak,11-Edinburg,1368,11.23,12187
+2023,Llano,7-Austin,1717,8.8,19515
+2023,Loving,9-Midland,6,6.45,93
+2023,Lubbock,1-Lubbock,43648,13.17,331479
+2023,Lynn,1-Lubbock,721,13.11,5498
+2023,Madison,7-Austin,1845,12.41,14868
+2023,Marion,4-Tyler,1091,10.77,10129
+2023,Martin,9-Midland,958,14.72,6507
+2023,Mason,9-Midland,423,10.83,3907
+2023,Matagorda,6-Houston,4891,13.21,37013
+2023,Maverick,8-San Antonio,9676,15.72,61567
+2023,McCulloch,9-Midland,1055,12.04,8761
+2023,McLennan,7-Austin,36972,14.31,258302
+2023,McMullen,11-Edinburg,67,8.51,787
+2023,Medina,8-San Antonio,6439,12.35,52122
+2023,Menard,9-Midland,241,11.05,2181
+2023,Midland,9-Midland,31527,15.15,208108
+2023,Milam,7-Austin,3206,13.04,24589
+2023,Mills,7-Austin,571,11.79,4843
+2023,Mitchell,2-Abilene,1043,10.43,10004
+2023,Montague,2-Abilene,2286,12.01,19038
+2023,Montgomery,6-Houston,92279,13.73,672131
+2023,Moore,1-Lubbock,3404,15.84,21492
+2023,Morris,4-Tyler,1498,12.22,12262
+2023,Motley,1-Lubbock,111,9.61,1155
+2023,Nacogdoches,5-Beaumont,6926,10.78,64255
+2023,Navarro,3-Arlington,6355,13.26,47930
+2023,Newton,5-Beaumont,1436,10.62,13522
+2023,Nolan,2-Abilene,2243,14.2,15791
+2023,Nueces,11-Edinburg,53228,13.38,397902
+2023,Ochiltree,1-Lubbock,1843,15.79,11673
+2023,Oldham,1-Lubbock,368,16.54,2225
+2023,Orange,5-Beaumont,10900,12.49,87289
+2023,Palo Pinto,3-Arlington,3402,12.27,27728
+2023,Panola,4-Tyler,3210,12.97,24758
+2023,Parker,3-Arlington,18057,12.71,142025
+2023,Parmer,1-Lubbock,1314,14.76,8902
+2023,Pecos,9-Midland,2197,13.14,16714
+2023,Polk,5-Beaumont,5243,10.43,50249
+2023,Potter,1-Lubbock,16474,13.41,122803
+2023,Presidio,10-El Paso,666,12.17,5471
+2023,Rains,4-Tyler,1196,10.41,11488
+2023,Randall,1-Lubbock,19210,13.26,144824
+2023,Reagan,9-Midland,701,15.49,4526
+2023,Real,8-San Antonio,369,10.77,3425
+2023,Red River,4-Tyler,1392,11.16,12469
+2023,Reeves,9-Midland,1916,11.71,16363
+2023,Refugio,11-Edinburg,944,12.41,7609
+2023,Roberts,1-Lubbock,126,12.64,997
+2023,Robertson,7-Austin,2012,11.87,16952
+2023,Rockwall,3-Arlington,14563,13.15,110757
+2023,Runnels,2-Abilene,1417,12.65,11200
+2023,Rusk,4-Tyler,6325,12.03,52584
+2023,Sabine,5-Beaumont,1024,10.6,9660
+2023,San Augustine,5-Beaumont,838,10.12,8281
+2023,San Jacinto,5-Beaumont,3531,11.95,29559
+2023,San Patricio,11-Edinburg,10151,13.82,73464
+2023,San Saba,7-Austin,649,11.13,5830
+2023,Schleicher,9-Midland,480,14.35,3346
+2023,Scurry,2-Abilene,2697,14.29,18877
+2023,Shackelford,2-Abilene,422,12.31,3429
+2023,Shelby,5-Beaumont,3629,14.26,25449
+2023,Sherman,1-Lubbock,446,13.31,3350
+2023,Smith,4-Tyler,31999,13.2,242371
+2023,Somervell,3-Arlington,1075,11.21,9591
+2023,Starr,11-Edinburg,10601,16.19,65498
+2023,Stephens,2-Abilene,1158,12.12,9557
+2023,Sterling,9-Midland,155,12.16,1275
+2023,Stonewall,2-Abilene,161,10.52,1530
+2023,Sutton,9-Midland,512,11.51,4449
+2023,Swisher,1-Lubbock,971,13.31,7295
+2023,Tarrant,3-Arlington,309550,13.76,2249878
+2023,Taylor,2-Abilene,19488,13.76,141675
+2023,Terrell,9-Midland,114,10.79,1057
+2023,Terry,1-Lubbock,1968,14.89,13220
+2023,Throckmorton,2-Abilene,177,11.8,1500
+2023,Titus,4-Tyler,4997,15.14,33009
+2023,Tom Green,9-Midland,15670,12.27,127703
+2023,Travis,7-Austin,159808,11.68,1368139
+2023,Trinity,5-Beaumont,1467,10.43,14063
+2023,Tyler,5-Beaumont,2305,10.87,21214
+2023,Upshur,4-Tyler,5219,12.3,42416
+2023,Upton,9-Midland,612,14.63,4184
+2023,Uvalde,8-San Antonio,3849,13.43,28659
+2023,Val Verde,8-San Antonio,7159,14.91,48025
+2023,Van Zandt,4-Tyler,6895,12.24,56353
+2023,Victoria,8-San Antonio,12990,12.84,101205
+2023,Walker,6-Houston,7766,10.18,76250
+2023,Waller,6-Houston,7301,13.76,53060
+2023,Ward,9-Midland,2339,15.81,14798
+2023,Washington,7-Austin,4441,12.5,35536
+2023,Webb,11-Edinburg,44250,15.61,283493
+2023,Wharton,6-Houston,5841,13.88,42092
+2023,Wheeler,1-Lubbock,803,13.68,5869
+2023,Wichita,2-Abilene,15728,11.8,133295
+2023,Wilbarger,2-Abilene,1563,12.17,12838
+2023,Willacy,11-Edinburg,2863,12.98,22053
+2023,Williamson,7-Austin,87481,13.41,652186
+2023,Wilson,8-San Antonio,6564,11.98,54807
+2023,Winkler,9-Midland,1757,17.32,10146
+2023,Wise,3-Arlington,8428,12.43,67825
+2023,Wood,4-Tyler,5065,10.97,46166
+2023,Yoakum,1-Lubbock,1679,17.2,9763
+2023,Young,2-Abilene,2371,12.63,18779
+2023,Zapata,11-Edinburg,2505,17.36,14428
+2023,Zavala,8-San Antonio,2133,16.44,12978
+2023,All Counties,All Regions,,,31172832
+2022,Anderson,4-Tyler,6101,10.5,58094
+2022,Andrews,9-Midland,4190,17.19,24369
+2022,Angelina,5-Beaumont,13000,14.28,91022
+2022,Aransas,11-Edinburg,3074,10.69,28757
+2022,Archer,2-Abilene,939,11.36,8264
+2022,Armstrong,1-Lubbock,209,10.73,1947
+2022,Atascosa,8-San Antonio,7523,14.06,53493
+2022,Austin,6-Houston,3900,12.66,30805
+2022,Bailey,1-Lubbock,1348,17.26,7810
+2022,Bandera,8-San Antonio,1893,8.85,21389
+2022,Bastrop,7-Austin,12258,13.83,88616
+2022,Baylor,2-Abilene,461,12.75,3617
+2022,Bee,11-Edinburg,4083,11.68,34943
+2022,Bell,7-Austin,57710,15.94,362136
+2022,Bexar,8-San Antonio,297678,13.69,2174191
+2022,Blanco,7-Austin,1125,9.62,11694
+2022,Borden,9-Midland,61,8.74,698
+2022,Bosque,7-Austin,1990,11.25,17682
+2022,Bowie,4-Tyler,11010,11.91,92441
+2022,Brazoria,6-Houston,55076,14.13,389844
+2022,Brazos,7-Austin,29599,12.46,237611
+2022,Brewster,10-El Paso,1051,11.59,9067
+2022,Briscoe,1-Lubbock,181,11.63,1556
+2022,Brooks,11-Edinburg,996,13.92,7153
+2022,Brown,2-Abilene,4715,12.09,38984
+2022,Burleson,7-Austin,2293,12.85,17841
+2022,Burnet,7-Austin,5694,11.54,49329
+2022,Caldwell,7-Austin,6448,14.14,45617
+2022,Calhoun,8-San Antonio,3055,13.25,23065
+2022,Callahan,2-Abilene,1411,10.47,13478
+2022,Cameron,11-Edinburg,68100,15.8,431026
+2022,Camp,4-Tyler,1843,13.64,13515
+2022,Carson,1-Lubbock,732,12.69,5768
+2022,Cass,4-Tyler,3607,11.94,30203
+2022,Castro,1-Lubbock,992,14.3,6938
+2022,Chambers,6-Houston,6301,14.26,44194
+2022,Cherokee,4-Tyler,7476,14.28,52350
+2022,Childress,1-Lubbock,793,11.26,7045
+2022,Clay,2-Abilene,1068,11.14,9584
+2022,Cochran,1-Lubbock,520,15.29,3402
+2022,Coke,9-Midland,343,10.72,3201
+2022,Coleman,2-Abilene,1063,12.65,8406
+2022,Collin,3-Arlington,152893,13.9,1099759
+2022,Collingsworth,1-Lubbock,497,15.27,3255
+2022,Colorado,6-Houston,2778,13.01,21353
+2022,Comal,8-San Antonio,19174,12.2,157195
+2022,Comanche,2-Abilene,1598,12.41,12878
+2022,Concho,9-Midland,334,8.04,4153
+2022,Cooke,3-Arlington,5137,12.85,39967
+2022,Coryell,7-Austin,10910,13.79,79108
+2022,Cottle,2-Abilene,163,10.79,1510
+2022,Crane,9-Midland,1032,15.48,6667
+2022,Crockett,9-Midland,537,13.14,4088
+2022,Crosby,1-Lubbock,949,14.5,6547
+2022,Culberson,10-El Paso,221,9.99,2212
+2022,Dallam,1-Lubbock,1270,17.27,7353
+2022,Dallas,3-Arlington,408189,14.53,2808441
+2022,Dawson,9-Midland,1842,13.6,13543
+2022,DeWitt,8-San Antonio,2571,11.65,22078
+2022,Deaf Smith,1-Lubbock,2984,16.62,17955
+2022,Delta,4-Tyler,626,11.65,5375
+2022,Denton,3-Arlington,127342,13.34,954471
+2022,Dickens,1-Lubbock,174,8.18,2126
+2022,Dimmit,8-San Antonio,1938,15.89,12197
+2022,Donley,1-Lubbock,347,10.34,3357
+2022,Duval,11-Edinburg,1646,14.04,11727
+2022,Eastland,2-Abilene,2201,12.17,18087
+2022,Ector,9-Midland,31947,16.23,196837
+2022,Edwards,8-San Antonio,221,11.25,1965
+2022,El Paso,10-El Paso,129320,14.53,890020
+2022,Ellis,3-Arlington,25922,14.1,183842
+2022,Erath,3-Arlington,5049,11.92,42363
+2022,Falls,7-Austin,1837,11.21,16390
+2022,Fannin,3-Arlington,3801,10.95,34720
+2022,Fayette,7-Austin,3275,12.38,26452
+2022,Fisher,2-Abilene,458,11.51,3979
+2022,Floyd,1-Lubbock,744,13.08,5687
+2022,Foard,2-Abilene,130,10.55,1232
+2022,Fort Bend,6-Houston,125067,13.84,903484
+2022,Franklin,4-Tyler,1507,13.73,10977
+2022,Freestone,7-Austin,2426,12.22,19860
+2022,Frio,8-San Antonio,2659,12.88,20640
+2022,Gaines,9-Midland,4319,18.66,23150
+2022,Galveston,6-Houston,49210,13.33,369095
+2022,Garza,1-Lubbock,810,11.82,6850
+2022,Gillespie,8-San Antonio,2782,10.48,26535
+2022,Glasscock,9-Midland,168,12.05,1394
+2022,Goliad,8-San Antonio,872,11.14,7825
+2022,Gonzales,8-San Antonio,3089,14.28,21636
+2022,Gray,1-Lubbock,3477,14.08,24695
+2022,Grayson,3-Arlington,17521,13.1,133761
+2022,Gregg,4-Tyler,17997,14.25,126321
+2022,Grimes,7-Austin,3531,12.03,29344
+2022,Guadalupe,8-San Antonio,24286,13.52,179600
+2022,Hale,1-Lubbock,4798,14.73,32583
+2022,Hall,1-Lubbock,413,12.51,3302
+2022,Hamilton,7-Austin,997,12.16,8200
+2022,Hansford,1-Lubbock,929,15.77,5890
+2022,Hardeman,2-Abilene,494,12.85,3845
+2022,Hardin,5-Beaumont,7304,12.86,56792
+2022,Harris,6-Houston,752158,14.56,5164809
+2022,Harrison,4-Tyler,9632,14.01,68736
+2022,Hartley,1-Lubbock,674,11.06,6092
+2022,Haskell,2-Abilene,680,10.81,6289
+2022,Hays,7-Austin,32757,12.9,253894
+2022,Hemphill,1-Lubbock,886,18.11,4892
+2022,Henderson,4-Tyler,9508,11.66,81548
+2022,Hidalgo,11-Edinburg,143221,16.12,888655
+2022,Hill,7-Austin,4637,12.99,35683
+2022,Hockley,1-Lubbock,3547,14.21,24959
+2022,Hood,3-Arlington,6859,11.4,60158
+2022,Hopkins,4-Tyler,4828,12.93,37334
+2022,Houston,5-Beaumont,2487,11.09,22433
+2022,Howard,9-Midland,5379,12.6,42702
+2022,Hudspeth,10-El Paso,349,10.25,3406
+2022,Hunt,3-Arlington,12120,12.46,97277
+2022,Hutchinson,1-Lubbock,2958,13.83,21396
+2022,Irion,9-Midland,135,8.96,1506
+2022,Jack,2-Abilene,1045,11.85,8820
+2022,Jackson,8-San Antonio,2359,14.48,16293
+2022,Jasper,5-Beaumont,4492,12.7,35374
+2022,Jeff Davis,10-El Paso,209,10.07,2076
+2022,Jefferson,5-Beaumont,32766,12.62,259733
+2022,Jim Hogg,11-Edinburg,778,15.48,5026
+2022,Jim Wells,11-Edinburg,6462,14.95,43229
+2022,Johnson,3-Arlington,24589,13.96,176087
+2022,Jones,2-Abilene,1808,9.19,19666
+2022,Karnes,8-San Antonio,1829,11.75,15560
+2022,Kaufman,3-Arlington,18126,13.92,130210
+2022,Kendall,8-San Antonio,6315,12.7,49720
+2022,Kenedy,11-Edinburg,57,11.7,487
+2022,Kent,2-Abilene,80,10,800
+2022,Kerr,8-San Antonio,5806,10.99,52830
+2022,Kimble,9-Midland,432,10.1,4277
+2022,King,1-Lubbock,28,8.83,317
+2022,Kinney,8-San Antonio,395,11.44,3453
+2022,Kleberg,11-Edinburg,4092,13.26,30857
+2022,Knox,2-Abilene,595,14.92,3987
+2022,La Salle,8-San Antonio,868,10.03,8651
+2022,Lamar,4-Tyler,6213,12.44,49957
+2022,Lamb,1-Lubbock,1732,13.79,12556
+2022,Lampasas,7-Austin,2535,11.88,21331
+2022,Lavaca,8-San Antonio,2862,13.51,21191
+2022,Lee,7-Austin,2412,13.56,17787
+2022,Leon,7-Austin,2156,12.04,17905
+2022,Liberty,6-Houston,11773,13.48,87353
+2022,Limestone,7-Austin,2866,12.16,23574
+2022,Lipscomb,1-Lubbock,498,13.34,3733
+2022,Live Oak,11-Edinburg,1344,11.08,12132
+2022,Llano,7-Austin,1687,8.65,19503
+2022,Loving,9-Midland,6,6.45,93
+2022,Lubbock,1-Lubbock,43489,13.32,326611
+2022,Lynn,1-Lubbock,738,13.34,5534
+2022,Madison,7-Austin,1815,12.3,14754
+2022,Marion,4-Tyler,1083,10.62,10199
+2022,Martin,9-Midland,945,14.88,6349
+2022,Mason,9-Midland,426,10.91,3905
+2022,Matagorda,6-Houston,4906,13.25,37032
+2022,Maverick,8-San Antonio,9686,15.87,61027
+2022,McCulloch,9-Midland,1073,12.28,8738
+2022,McLennan,7-Austin,36601,14.26,256604
+2022,McMullen,11-Edinburg,67,8.51,787
+2022,Medina,8-San Antonio,6428,12.45,51621
+2022,Menard,9-Midland,246,11.26,2185
+2022,Midland,9-Midland,30404,15.13,200890
+2022,Milam,7-Austin,3269,13.27,24627
+2022,Mills,7-Austin,567,11.7,4847
+2022,Mitchell,2-Abilene,1014,10.2,9943
+2022,Montague,2-Abilene,2300,12.04,19099
+2022,Montgomery,6-Houston,90563,13.89,652082
+2022,Moore,1-Lubbock,3483,16.19,21510
+2022,Morris,4-Tyler,1473,11.95,12328
+2022,Motley,1-Lubbock,119,10.24,1162
+2022,Nacogdoches,5-Beaumont,7000,10.9,64248
+2022,Navarro,3-Arlington,6433,13.41,47962
+2022,Newton,5-Beaumont,1444,10.62,13598
+2022,Nolan,2-Abilene,2269,14.42,15734
+2022,Nueces,11-Edinburg,52667,13.39,393190
+2022,Ochiltree,1-Lubbock,1850,16.01,11553
+2022,Oldham,1-Lubbock,374,16.87,2217
+2022,Orange,5-Beaumont,10912,12.56,86913
+2022,Palo Pinto,3-Arlington,3467,12.48,27777
+2022,Panola,4-Tyler,3214,13,24714
+2022,Parker,3-Arlington,17964,12.84,139853
+2022,Parmer,1-Lubbock,1343,14.92,9004
+2022,Pecos,9-Midland,2186,13.12,16658
+2022,Polk,5-Beaumont,5182,10.39,49862
+2022,Potter,1-Lubbock,16748,13.64,122799
+2022,Presidio,10-El Paso,691,12.32,5609
+2022,Rains,4-Tyler,1185,10.34,11455
+2022,Randall,1-Lubbock,19020,13.35,142506
+2022,Reagan,9-Midland,682,15.41,4425
+2022,Real,8-San Antonio,353,10.32,3421
+2022,Red River,4-Tyler,1369,10.94,12515
+2022,Reeves,9-Midland,1870,11.58,16150
+2022,Refugio,11-Edinburg,941,12.38,7603
+2022,Roberts,1-Lubbock,130,13.08,994
+2022,Robertson,7-Austin,2017,11.91,16936
+2022,Rockwall,3-Arlington,14653,13.59,107826
+2022,Runnels,2-Abilene,1419,12.74,11137
+2022,Rusk,4-Tyler,6437,12.23,52648
+2022,Sabine,5-Beaumont,1039,10.65,9752
+2022,San Augustine,5-Beaumont,826,9.94,8314
+2022,San Jacinto,5-Beaumont,3518,11.99,29330
+2022,San Patricio,11-Edinburg,10197,14.01,72760
+2022,San Saba,7-Austin,650,11.12,5845
+2022,Schleicher,9-Midland,492,14.75,3336
+2022,Scurry,2-Abilene,2714,14.51,18701
+2022,Shackelford,2-Abilene,433,12.65,3423
+2022,Shelby,5-Beaumont,3641,14.28,25493
+2022,Sherman,1-Lubbock,456,13.71,3326
+2022,Smith,4-Tyler,31741,13.23,239994
+2022,Somervell,3-Arlington,1062,11.2,9482
+2022,Starr,11-Edinburg,10585,16.22,65276
+2022,Stephens,2-Abilene,1157,12.09,9568
+2022,Sterling,9-Midland,154,12.14,1269
+2022,Stonewall,2-Abilene,160,10.49,1525
+2022,Sutton,9-Midland,509,11.49,4431
+2022,Swisher,1-Lubbock,1012,13.81,7328
+2022,Tarrant,3-Arlington,309475,13.98,2214148
+2022,Taylor,2-Abilene,19521,13.85,140957
+2022,Terrell,9-Midland,118,11.15,1058
+2022,Terry,1-Lubbock,1948,14.8,13161
+2022,Throckmorton,2-Abilene,179,11.89,1506
+2022,Titus,4-Tyler,5018,15.2,33005
+2022,Tom Green,9-Midland,15631,12.38,126243
+2022,Travis,7-Austin,158198,11.78,1342801
+2022,Trinity,5-Beaumont,1474,10.44,14122
+2022,Tyler,5-Beaumont,2317,10.89,21278
+2022,Upshur,4-Tyler,5241,12.44,42145
+2022,Upton,9-Midland,617,14.95,4127
+2022,Uvalde,8-San Antonio,3899,13.72,28411
+2022,Val Verde,8-San Antonio,7248,15.07,48098
+2022,Van Zandt,4-Tyler,6865,12.25,56056
+2022,Victoria,8-San Antonio,13063,13.06,100022
+2022,Walker,6-Houston,7717,10.22,75503
+2022,Waller,6-Houston,7358,14.07,52280
+2022,Ward,9-Midland,2277,15.83,14383
+2022,Washington,7-Austin,4453,12.57,35421
+2022,Webb,11-Edinburg,44837,15.95,281099
+2022,Wharton,6-Houston,5909,14.05,42045
+2022,Wheeler,1-Lubbock,812,13.9,5841
+2022,Wichita,2-Abilene,15747,11.81,133297
+2022,Wilbarger,2-Abilene,1569,12.15,12913
+2022,Willacy,11-Edinburg,2895,13.11,22089
+2022,Williamson,7-Austin,86108,13.66,630580
+2022,Wilson,8-San Antonio,6559,12.19,53799
+2022,Winkler,9-Midland,1684,17.09,9854
+2022,Wise,3-Arlington,8440,12.57,67160
+2022,Wood,4-Tyler,5003,10.9,45896
+2022,Yoakum,1-Lubbock,1660,17.33,9579
+2022,Young,2-Abilene,2338,12.46,18760
+2022,Zapata,11-Edinburg,2539,17.6,14430
+2022,Zavala,8-San Antonio,2134,16.57,12879
+2022,All Counties,All Regions,,,30667390
+2021,Anderson,4-Tyler,6147,10.57,58162
+2021,Andrews,9-Midland,4007,17.2,23290
+2021,Angelina,5-Beaumont,13049,14.38,90739
+2021,Aransas,11-Edinburg,3044,10.78,28232
+2021,Archer,2-Abilene,968,11.66,8303
+2021,Armstrong,1-Lubbock,202,10.38,1946
+2021,Atascosa,8-San Antonio,7472,14.19,52646
+2021,Austin,6-Houston,3876,12.66,30609
+2021,Bailey,1-Lubbock,1337,17.25,7749
+2021,Bandera,8-San Antonio,1885,8.84,21318
+2021,Bastrop,7-Austin,12222,13.99,87351
+2021,Baylor,2-Abilene,451,12.46,3620
+2021,Bee,11-Edinburg,4039,11.64,34694
+2021,Bell,7-Austin,56829,15.88,357856
+2021,Bexar,8-San Antonio,293627,13.76,2133664
+2021,Blanco,7-Austin,1153,9.93,11609
+2021,Borden,9-Midland,66,9.54,692
+2021,Bosque,7-Austin,2012,11.35,17729
+2021,Bowie,4-Tyler,11278,12.19,92534
+2021,Brazoria,6-Houston,54979,14.36,382793
+2021,Brazos,7-Austin,29031,12.43,233503
+2021,Brewster,10-El Paso,1033,11.35,9100
+2021,Briscoe,1-Lubbock,178,11.39,1563
+2021,Brooks,11-Edinburg,994,13.88,7160
+2021,Brown,2-Abilene,4773,12.25,38962
+2021,Burleson,7-Austin,2331,13.11,17782
+2021,Burnet,7-Austin,5666,11.62,48769
+2021,Caldwell,7-Austin,6384,14.2,44960
+2021,Calhoun,8-San Antonio,3081,13.43,22948
+2021,Callahan,2-Abilene,1465,10.88,13465
+2021,Cameron,11-Edinburg,68717,16,429514
+2021,Camp,4-Tyler,1861,13.88,13411
+2021,Carson,1-Lubbock,758,13.1,5787
+2021,Cass,4-Tyler,3613,11.94,30269
+2021,Castro,1-Lubbock,1022,14.55,7024
+2021,Chambers,6-Houston,6205,14.35,43243
+2021,Cherokee,4-Tyler,7501,14.35,52263
+2021,Childress,1-Lubbock,784,11.12,7053
+2021,Clay,2-Abilene,1096,11.31,9693
+2021,Cochran,1-Lubbock,523,15.51,3371
+2021,Coke,9-Midland,337,10.51,3205
+2021,Coleman,2-Abilene,1069,12.66,8443
+2021,Collin,3-Arlington,151943,14.21,1069017
+2021,Collingsworth,1-Lubbock,483,14.97,3227
+2021,Colorado,6-Houston,2788,13.08,21318
+2021,Comal,8-San Antonio,18755,12.32,152183
+2021,Comanche,2-Abilene,1608,12.39,12980
+2021,Concho,9-Midland,332,8,4149
+2021,Cooke,3-Arlington,5194,13.03,39847
+2021,Coryell,7-Austin,11003,13.98,78703
+2021,Cottle,2-Abilene,164,10.88,1507
+2021,Crane,9-Midland,1006,15.64,6434
+2021,Crockett,9-Midland,547,13.44,4071
+2021,Crosby,1-Lubbock,966,14.84,6509
+2021,Culberson,10-El Paso,221,9.91,2229
+2021,Dallam,1-Lubbock,1274,17.45,7301
+2021,Dallas,3-Arlington,404021,14.58,2771223
+2021,Dawson,9-Midland,1836,13.53,13567
+2021,DeWitt,8-San Antonio,2580,11.78,21907
+2021,Deaf Smith,1-Lubbock,3039,16.84,18043
+2021,Delta,4-Tyler,620,11.55,5370
+2021,Denton,3-Arlington,126721,13.69,925643
+2021,Dickens,1-Lubbock,180,8.38,2149
+2021,Dimmit,8-San Antonio,1919,16.03,11974
+2021,Donley,1-Lubbock,349,10.31,3386
+2021,Duval,11-Edinburg,1637,13.91,11771
+2021,Eastland,2-Abilene,2209,12.17,18149
+2021,Ector,9-Midland,31133,16.32,190713
+2021,Edwards,8-San Antonio,220,11.12,1979
+2021,El Paso,10-El Paso,128231,14.52,883160
+2021,Ellis,3-Arlington,25820,14.28,180752
+2021,Erath,3-Arlington,5095,12.15,41950
+2021,Falls,7-Austin,1869,11.33,16493
+2021,Fannin,3-Arlington,3841,11.08,34671
+2021,Fayette,7-Austin,3232,12.3,26272
+2021,Fisher,2-Abilene,460,11.56,3980
+2021,Floyd,1-Lubbock,757,13.18,5743
+2021,Foard,2-Abilene,129,10.42,1238
+2021,Fort Bend,6-Houston,123426,14.16,871351
+2021,Franklin,4-Tyler,1515,13.83,10954
+2021,Freestone,7-Austin,2424,12.2,19865
+2021,Frio,8-San Antonio,2604,12.81,20327
+2021,Gaines,9-Midland,4283,18.93,22628
+2021,Galveston,6-Houston,48689,13.45,362099
+2021,Garza,1-Lubbock,800,11.73,6820
+2021,Gillespie,8-San Antonio,2816,10.68,26361
+2021,Glasscock,9-Midland,168,12.17,1380
+2021,Goliad,8-San Antonio,875,11.26,7768
+2021,Gonzales,8-San Antonio,3087,14.37,21488
+2021,Gray,1-Lubbock,3459,14.14,24456
+2021,Grayson,3-Arlington,17442,13.14,132740
+2021,Gregg,4-Tyler,18036,14.31,126034
+2021,Grimes,7-Austin,3527,12.11,29128
+2021,Guadalupe,8-San Antonio,23802,13.61,174869
+2021,Hale,1-Lubbock,4898,14.89,32901
+2021,Hall,1-Lubbock,417,12.62,3303
+2021,Hamilton,7-Austin,999,12.17,8210
+2021,Hansford,1-Lubbock,942,16.09,5855
+2021,Hardeman,2-Abilene,502,13.03,3854
+2021,Hardin,5-Beaumont,7407,13.08,56626
+2021,Harris,6-Houston,741978,14.63,5071573
+2021,Harrison,4-Tyler,9635,14.07,68492
+2021,Hartley,1-Lubbock,691,11.36,6082
+2021,Haskell,2-Abilene,674,10.81,6237
+2021,Hays,7-Austin,32060,13.13,244221
+2021,Hemphill,1-Lubbock,870,18.27,4761
+2021,Henderson,4-Tyler,9583,11.78,81369
+2021,Hidalgo,11-Edinburg,144539,16.43,879547
+2021,Hill,7-Austin,4617,12.94,35678
+2021,Hockley,1-Lubbock,3529,14.23,24799
+2021,Hood,3-Arlington,6839,11.51,59402
+2021,Hopkins,4-Tyler,4904,13.18,37194
+2021,Houston,5-Beaumont,2491,11.06,22531
+2021,Howard,9-Midland,5243,12.5,41941
+2021,Hudspeth,10-El Paso,364,10.7,3403
+2021,Hunt,3-Arlington,12043,12.51,96303
+2021,Hutchinson,1-Lubbock,2967,13.85,21424
+2021,Irion,9-Midland,139,9.21,1509
+2021,Jack,2-Abilene,1035,11.72,8830
+2021,Jackson,8-San Antonio,2328,14.46,16099
+2021,Jasper,5-Beaumont,4570,12.89,35456
+2021,Jeff Davis,10-El Paso,209,9.99,2092
+2021,Jefferson,5-Beaumont,32541,12.55,259249
+2021,Jim Hogg,11-Edinburg,791,15.65,5053
+2021,Jim Wells,11-Edinburg,6393,14.84,43074
+2021,Johnson,3-Arlington,24405,14.03,173888
+2021,Jones,2-Abilene,1833,9.3,19702
+2021,Karnes,8-San Antonio,1805,11.67,15466
+2021,Kaufman,3-Arlington,18056,14.15,127644
+2021,Kendall,8-San Antonio,6165,12.85,47967
+2021,Kenedy,11-Edinburg,54,11.18,483
+2021,Kent,2-Abilene,83,10.4,798
+2021,Kerr,8-San Antonio,5774,10.99,52544
+2021,Kimble,9-Midland,428,9.93,4309
+2021,King,1-Lubbock,27,8.63,313
+2021,Kinney,8-San Antonio,394,11.39,3458
+2021,Kleberg,11-Edinburg,4220,13.65,30910
+2021,Knox,2-Abilene,586,14.8,3960
+2021,La Salle,8-San Antonio,860,10.14,8479
+2021,Lamar,4-Tyler,6214,12.43,50009
+2021,Lamb,1-Lubbock,1767,13.94,12672
+2021,Lampasas,7-Austin,2539,11.98,21193
+2021,Lavaca,8-San Antonio,2855,13.62,20958
+2021,Lee,7-Austin,2438,13.78,17691
+2021,Leon,7-Austin,2122,11.92,17805
+2021,Liberty,6-Houston,11590,13.43,86326
+2021,Limestone,7-Austin,2875,12.2,23559
+2021,Lipscomb,1-Lubbock,519,14.05,3694
+2021,Live Oak,11-Edinburg,1318,10.91,12081
+2021,Llano,7-Austin,1665,8.55,19481
+2021,Loving,9-Midland,6,6.45,93
+2021,Lubbock,1-Lubbock,43353,13.47,321818
+2021,Lynn,1-Lubbock,754,13.56,5562
+2021,Madison,7-Austin,1790,12.23,14636
+2021,Marion,4-Tyler,1064,10.38,10255
+2021,Martin,9-Midland,927,14.96,6195
+2021,Mason,9-Midland,423,10.85,3900
+2021,Matagorda,6-Houston,4891,13.2,37055
+2021,Maverick,8-San Antonio,9679,16,60484
+2021,McCulloch,9-Midland,1079,12.4,8700
+2021,McLennan,7-Austin,36393,14.28,254824
+2021,McMullen,11-Edinburg,62,7.88,787
+2021,Medina,8-San Antonio,6428,12.57,51121
+2021,Menard,9-Midland,243,11.12,2185
+2021,Midland,9-Midland,29340,15.13,193981
+2021,Milam,7-Austin,3308,13.43,24634
+2021,Mills,7-Austin,571,11.74,4863
+2021,Mitchell,2-Abilene,1019,10.3,9895
+2021,Montague,2-Abilene,2325,12.14,19154
+2021,Montgomery,6-Houston,89059,14.08,632702
+2021,Moore,1-Lubbock,3530,16.39,21543
+2021,Morris,4-Tyler,1511,12.19,12393
+2021,Motley,1-Lubbock,118,10.13,1165
+2021,Nacogdoches,5-Beaumont,7055,10.99,64181
+2021,Navarro,3-Arlington,6507,13.57,47962
+2021,Newton,5-Beaumont,1451,10.63,13654
+2021,Nolan,2-Abilene,2301,14.67,15689
+2021,Nueces,11-Edinburg,52038,13.4,388438
+2021,Ochiltree,1-Lubbock,1879,16.44,11431
+2021,Oldham,1-Lubbock,383,17.33,2210
+2021,Orange,5-Beaumont,10983,12.69,86539
+2021,Palo Pinto,3-Arlington,3489,12.54,27815
+2021,Panola,4-Tyler,3225,13.08,24647
+2021,Parker,3-Arlington,17843,12.96,137707
+2021,Parmer,1-Lubbock,1367,15.03,9097
+2021,Pecos,9-Midland,2177,13.12,16598
+2021,Polk,5-Beaumont,5196,10.5,49480
+2021,Potter,1-Lubbock,17061,13.9,122765
+2021,Presidio,10-El Paso,722,12.54,5758
+2021,Rains,4-Tyler,1181,10.34,11425
+2021,Randall,1-Lubbock,18764,13.38,140273
+2021,Reagan,9-Midland,671,15.51,4326
+2021,Real,8-San Antonio,350,10.25,3415
+2021,Red River,4-Tyler,1353,10.77,12565
+2021,Reeves,9-Midland,1865,11.71,15931
+2021,Refugio,11-Edinburg,933,12.29,7589
+2021,Roberts,1-Lubbock,130,13.12,991
+2021,Robertson,7-Austin,2033,12.01,16924
+2021,Rockwall,3-Arlington,14800,14.1,104969
+2021,Runnels,2-Abilene,1437,12.98,11072
+2021,Rusk,4-Tyler,6462,12.26,52713
+2021,Sabine,5-Beaumont,1033,10.5,9840
+2021,San Augustine,5-Beaumont,824,9.85,8365
+2021,San Jacinto,5-Beaumont,3506,12.05,29085
+2021,San Patricio,11-Edinburg,10205,14.17,72040
+2021,San Saba,7-Austin,663,11.32,5856
+2021,Schleicher,9-Midland,486,14.62,3325
+2021,Scurry,2-Abilene,2695,14.54,18541
+2021,Shackelford,2-Abilene,428,12.54,3414
+2021,Shelby,5-Beaumont,3677,14.4,25537
+2021,Sherman,1-Lubbock,466,14.13,3299
+2021,Smith,4-Tyler,31718,13.35,237577
+2021,Somervell,3-Arlington,1060,11.29,9388
+2021,Starr,11-Edinburg,10553,16.23,65010
+2021,Stephens,2-Abilene,1189,12.42,9570
+2021,Sterling,9-Midland,159,12.65,1257
+2021,Stonewall,2-Abilene,169,11.09,1524
+2021,Sutton,9-Midland,512,11.62,4406
+2021,Swisher,1-Lubbock,1035,14.05,7365
+2021,Tarrant,3-Arlington,309846,14.22,2178720
+2021,Taylor,2-Abilene,19458,13.88,140207
+2021,Terrell,9-Midland,118,11.16,1057
+2021,Terry,1-Lubbock,1946,14.86,13096
+2021,Throckmorton,2-Abilene,172,11.37,1513
+2021,Titus,4-Tyler,5088,15.42,32989
+2021,Tom Green,9-Midland,15568,12.48,124765
+2021,Travis,7-Austin,156524,11.88,1317306
+2021,Trinity,5-Beaumont,1480,10.44,14183
+2021,Tyler,5-Beaumont,2282,10.71,21313
+2021,Upshur,4-Tyler,5253,12.54,41899
+2021,Upton,9-Midland,623,15.36,4056
+2021,Uvalde,8-San Antonio,3979,14.13,28166
+2021,Val Verde,8-San Antonio,7292,15.13,48180
+2021,Van Zandt,4-Tyler,6858,12.3,55778
+2021,Victoria,8-San Antonio,13134,13.28,98869
+2021,Walker,6-Houston,7603,10.17,74751
+2021,Waller,6-Houston,7371,14.3,51529
+2021,Ward,9-Midland,2215,15.84,13986
+2021,Washington,7-Austin,4457,12.62,35306
+2021,Webb,11-Edinburg,45450,16.31,278650
+2021,Wharton,6-Houston,6018,14.33,41999
+2021,Wheeler,1-Lubbock,811,13.95,5813
+2021,Wichita,2-Abilene,15758,11.83,133234
+2021,Wilbarger,2-Abilene,1607,12.39,12973
+2021,Willacy,11-Edinburg,2931,13.25,22115
+2021,Williamson,7-Austin,84943,13.93,609818
+2021,Wilson,8-San Antonio,6540,12.39,52777
+2021,Winkler,9-Midland,1639,17.13,9569
+2021,Wise,3-Arlington,8495,12.77,66500
+2021,Wood,4-Tyler,4981,10.92,45611
+2021,Yoakum,1-Lubbock,1645,17.49,9404
+2021,Young,2-Abilene,2331,12.45,18730
+2021,Zapata,11-Edinburg,2548,17.67,14418
+2021,Zavala,8-San Antonio,2111,16.52,12780
+2021,All Counties,All Regions,,,30168926
+2020,Anderson,4-Tyler,6252,10.74,58199
+2020,Andrews,9-Midland,3815,17.13,22269
+2020,Angelina,5-Beaumont,13083,14.47,90437
+2020,Aransas,11-Edinburg,2961,10.69,27699
+2020,Archer,2-Abilene,990,11.86,8344
+2020,Armstrong,1-Lubbock,202,10.37,1948
+2020,Atascosa,8-San Antonio,7413,14.3,51831
+2020,Austin,6-Houston,3922,12.9,30402
+2020,Bailey,1-Lubbock,1339,17.41,7692
+2020,Bandera,8-San Antonio,1923,9.05,21246
+2020,Bastrop,7-Austin,12221,14.19,86105
+2020,Baylor,2-Abilene,444,12.25,3624
+2020,Bee,11-Edinburg,4003,11.62,34445
+2020,Bell,7-Austin,55729,15.76,353629
+2020,Bexar,8-San Antonio,289797,13.84,2093502
+2020,Blanco,7-Austin,1166,10.14,11504
+2020,Borden,9-Midland,65,9.49,685
+2020,Bosque,7-Austin,2031,11.43,17765
+2020,Bowie,4-Tyler,11523,12.45,92570
+2020,Brazoria,6-Houston,54843,14.59,375869
+2020,Brazos,7-Austin,28491,12.42,229410
+2020,Brewster,10-El Paso,1013,11.09,9133
+2020,Briscoe,1-Lubbock,185,11.8,1568
+2020,Brooks,11-Edinburg,977,13.62,7175
+2020,Brown,2-Abilene,4870,12.51,38923
+2020,Burleson,7-Austin,2311,13.04,17718
+2020,Burnet,7-Austin,5667,11.76,48196
+2020,Caldwell,7-Austin,6311,14.25,44284
+2020,Calhoun,8-San Antonio,3111,13.62,22840
+2020,Callahan,2-Abilene,1502,11.16,13456
+2020,Cameron,11-Edinburg,69454,16.23,427881
+2020,Camp,4-Tyler,1856,13.93,13322
+2020,Carson,1-Lubbock,781,13.47,5799
+2020,Cass,4-Tyler,3613,11.91,30327
+2020,Castro,1-Lubbock,1046,14.73,7103
+2020,Chambers,6-Houston,6139,14.51,42320
+2020,Cherokee,4-Tyler,7555,14.48,52178
+2020,Childress,1-Lubbock,788,11.16,7062
+2020,Clay,2-Abilene,1119,11.43,9787
+2020,Cochran,1-Lubbock,531,15.86,3348
+2020,Coke,9-Midland,342,10.64,3215
+2020,Coleman,2-Abilene,1086,12.81,8478
+2020,Collin,3-Arlington,150836,14.51,1039369
+2020,Collingsworth,1-Lubbock,480,14.95,3210
+2020,Colorado,6-Houston,2791,13.12,21273
+2020,Comal,8-San Antonio,18405,12.49,147330
+2020,Comanche,2-Abilene,1622,12.41,13075
+2020,Concho,9-Midland,339,8.17,4147
+2020,Cooke,3-Arlington,5275,13.28,39727
+2020,Coryell,7-Austin,11234,14.34,78317
+2020,Cottle,2-Abilene,177,11.72,1510
+2020,Crane,9-Midland,964,15.53,6209
+2020,Crockett,9-Midland,548,13.56,4040
+2020,Crosby,1-Lubbock,970,15.01,6464
+2020,Culberson,10-El Paso,232,10.33,2245
+2020,Dallam,1-Lubbock,1267,17.51,7237
+2020,Dallas,3-Arlington,399455,14.61,2734111
+2020,Dawson,9-Midland,1853,13.63,13592
+2020,DeWitt,8-San Antonio,2586,11.9,21737
+2020,Deaf Smith,1-Lubbock,3092,17.04,18143
+2020,Delta,4-Tyler,625,11.65,5367
+2020,Denton,3-Arlington,126062,14.04,897953
+2020,Dickens,1-Lubbock,190,8.74,2174
+2020,Dimmit,8-San Antonio,1882,16.03,11743
+2020,Donley,1-Lubbock,348,10.21,3410
+2020,Duval,11-Edinburg,1638,13.89,11796
+2020,Eastland,2-Abilene,2250,12.36,18205
+2020,Ector,9-Midland,30400,16.45,184841
+2020,Edwards,8-San Antonio,223,11.2,1991
+2020,El Paso,10-El Paso,127506,14.55,876120
+2020,Ellis,3-Arlington,25887,14.57,177721
+2020,Erath,3-Arlington,5150,12.4,41526
+2020,Falls,7-Austin,1903,11.46,16603
+2020,Fannin,3-Arlington,3871,11.19,34597
+2020,Fayette,7-Austin,3244,12.44,26086
+2020,Fisher,2-Abilene,459,11.52,3985
+2020,Floyd,1-Lubbock,782,13.52,5786
+2020,Foard,2-Abilene,128,10.32,1240
+2020,Fort Bend,6-Houston,121855,14.5,840383
+2020,Franklin,4-Tyler,1470,13.46,10924
+2020,Freestone,7-Austin,2432,12.25,19860
+2020,Frio,8-San Antonio,2576,12.87,20023
+2020,Gaines,9-Midland,4237,19.15,22121
+2020,Galveston,6-Houston,48111,13.54,355196
+2020,Garza,1-Lubbock,805,11.87,6784
+2020,Gillespie,8-San Antonio,2824,10.78,26191
+2020,Glasscock,9-Midland,175,12.82,1365
+2020,Goliad,8-San Antonio,882,11.43,7717
+2020,Gonzales,8-San Antonio,3112,14.58,21347
+2020,Gray,1-Lubbock,3447,14.21,24252
+2020,Grayson,3-Arlington,17315,13.15,131710
+2020,Gregg,4-Tyler,18096,14.39,125730
+2020,Grimes,7-Austin,3523,12.18,28930
+2020,Guadalupe,8-San Antonio,23447,13.77,170266
+2020,Hale,1-Lubbock,4951,14.91,33202
+2020,Hall,1-Lubbock,428,12.95,3305
+2020,Hamilton,7-Austin,995,12.1,8220
+2020,Hansford,1-Lubbock,952,16.36,5820
+2020,Hardeman,2-Abilene,504,13.02,3870
+2020,Hardin,5-Beaumont,7533,13.34,56486
+2020,Harris,6-Houston,731586,14.69,4978845
+2020,Harrison,4-Tyler,9594,14.06,68247
+2020,Hartley,1-Lubbock,711,11.72,6067
+2020,Haskell,2-Abilene,682,11.01,6197
+2020,Hays,7-Austin,31419,13.38,234896
+2020,Hemphill,1-Lubbock,891,19.19,4644
+2020,Henderson,4-Tyler,9674,11.92,81179
+2020,Hidalgo,11-Edinburg,146083,16.78,870366
+2020,Hill,7-Austin,4594,12.88,35673
+2020,Hockley,1-Lubbock,3531,14.33,24636
+2020,Hood,3-Arlington,6846,11.67,58643
+2020,Hopkins,4-Tyler,4948,13.36,37040
+2020,Houston,5-Beaumont,2482,10.97,22620
+2020,Howard,9-Midland,5132,12.45,41236
+2020,Hudspeth,10-El Paso,375,11.03,3400
+2020,Hunt,3-Arlington,11992,12.58,95324
+2020,Hutchinson,1-Lubbock,3003,13.99,21461
+2020,Irion,9-Midland,142,9.42,1508
+2020,Jack,2-Abilene,1027,11.62,8841
+2020,Jackson,8-San Antonio,2293,14.42,15899
+2020,Jasper,5-Beaumont,4607,12.97,35525
+2020,Jeff Davis,10-El Paso,208,9.84,2113
+2020,Jefferson,5-Beaumont,32422,12.53,258678
+2020,Jim Hogg,11-Edinburg,799,15.74,5077
+2020,Jim Wells,11-Edinburg,6328,14.75,42890
+2020,Johnson,3-Arlington,24239,14.12,171701
+2020,Jones,2-Abilene,1874,9.5,19735
+2020,Karnes,8-San Antonio,1797,11.67,15393
+2020,Kaufman,3-Arlington,17964,14.36,125134
+2020,Kendall,8-San Antonio,6024,13.02,46278
+2020,Kenedy,11-Edinburg,51,10.71,476
+2020,Kent,2-Abilene,83,10.44,795
+2020,Kerr,8-San Antonio,5742,10.99,52267
+2020,Kimble,9-Midland,426,9.81,4344
+2020,King,1-Lubbock,28,9.06,309
+2020,Kinney,8-San Antonio,398,11.5,3462
+2020,Kleberg,11-Edinburg,4370,14.1,30987
+2020,Knox,2-Abilene,587,14.91,3937
+2020,La Salle,8-San Antonio,858,10.33,8309
+2020,Lamar,4-Tyler,6259,12.51,50014
+2020,Lamb,1-Lubbock,1799,14.08,12776
+2020,Lampasas,7-Austin,2582,12.27,21037
+2020,Lavaca,8-San Antonio,2832,13.66,20735
+2020,Lee,7-Austin,2445,13.9,17595
+2020,Leon,7-Austin,2091,11.81,17707
+2020,Liberty,6-Houston,11404,13.37,85284
+2020,Limestone,7-Austin,2870,12.19,23544
+2020,Lipscomb,1-Lubbock,512,14.02,3651
+2020,Live Oak,11-Edinburg,1297,10.78,12030
+2020,Llano,7-Austin,1644,8.45,19452
+2020,Loving,9-Midland,6,6.52,92
+2020,Lubbock,1-Lubbock,43008,13.56,317210
+2020,Lynn,1-Lubbock,776,13.89,5588
+2020,Madison,7-Austin,1744,12.01,14527
+2020,Marion,4-Tyler,1052,10.22,10294
+2020,Martin,9-Midland,917,15.17,6044
+2020,Mason,9-Midland,425,10.9,3899
+2020,Matagorda,6-Houston,4960,13.38,37064
+2020,Maverick,8-San Antonio,9671,16.14,59938
+2020,McCulloch,9-Midland,1076,12.42,8660
+2020,McLennan,7-Austin,36158,14.29,253066
+2020,McMullen,11-Edinburg,60,7.66,783
+2020,Medina,8-San Antonio,6522,12.89,50594
+2020,Menard,9-Midland,243,11.11,2188
+2020,Midland,9-Midland,28284,15.1,187364
+2020,Milam,7-Austin,3336,13.54,24635
+2020,Mills,7-Austin,569,11.68,4870
+2020,Mitchell,2-Abilene,1004,10.18,9865
+2020,Montague,2-Abilene,2330,12.14,19199
+2020,Montgomery,6-Houston,87721,14.29,613951
+2020,Moore,1-Lubbock,3588,16.63,21575
+2020,Morris,4-Tyler,1517,12.19,12448
+2020,Motley,1-Lubbock,129,11.01,1172
+2020,Nacogdoches,5-Beaumont,7090,11.06,64106
+2020,Navarro,3-Arlington,6618,13.79,47985
+2020,Newton,5-Beaumont,1482,10.8,13724
+2020,Nolan,2-Abilene,2326,14.87,15642
+2020,Nueces,11-Edinburg,51502,13.42,383718
+2020,Ochiltree,1-Lubbock,1885,16.67,11309
+2020,Oldham,1-Lubbock,389,17.68,2200
+2020,Orange,5-Beaumont,11084,12.87,86155
+2020,Palo Pinto,3-Arlington,3549,12.74,27859
+2020,Panola,4-Tyler,3244,13.2,24576
+2020,Parker,3-Arlington,17822,13.14,135621
+2020,Parmer,1-Lubbock,1394,15.15,9200
+2020,Pecos,9-Midland,2135,12.91,16533
+2020,Polk,5-Beaumont,5174,10.54,49080
+2020,Potter,1-Lubbock,17273,14.08,122706
+2020,Presidio,10-El Paso,755,12.78,5906
+2020,Rains,4-Tyler,1181,10.38,11378
+2020,Randall,1-Lubbock,18511,13.4,138104
+2020,Reagan,9-Midland,683,16.16,4226
+2020,Real,8-San Antonio,349,10.24,3407
+2020,Red River,4-Tyler,1349,10.7,12610
+2020,Reeves,9-Midland,1862,11.85,15707
+2020,Refugio,11-Edinburg,926,12.23,7573
+2020,Roberts,1-Lubbock,126,12.82,983
+2020,Robertson,7-Austin,2060,12.2,16888
+2020,Rockwall,3-Arlington,14885,14.56,102243
+2020,Runnels,2-Abilene,1441,13.09,11009
+2020,Rusk,4-Tyler,6526,12.37,52767
+2020,Sabine,5-Beaumont,1033,10.4,9936
+2020,San Augustine,5-Beaumont,821,9.77,8405
+2020,San Jacinto,5-Beaumont,3517,12.19,28844
+2020,San Patricio,11-Edinburg,10172,14.26,71325
+2020,San Saba,7-Austin,669,11.39,5873
+2020,Schleicher,9-Midland,483,14.58,3312
+2020,Scurry,2-Abilene,2680,14.59,18368
+2020,Shackelford,2-Abilene,429,12.6,3405
+2020,Shelby,5-Beaumont,3696,14.47,25545
+2020,Sherman,1-Lubbock,476,14.53,3276
+2020,Smith,4-Tyler,31662,13.46,235143
+2020,Somervell,3-Arlington,1082,11.64,9294
+2020,Starr,11-Edinburg,10571,16.33,64731
+2020,Stephens,2-Abilene,1181,12.34,9570
+2020,Sterling,9-Midland,158,12.62,1252
+2020,Stonewall,2-Abilene,174,11.42,1523
+2020,Sutton,9-Midland,516,11.78,4381
+2020,Swisher,1-Lubbock,1053,14.2,7414
+2020,Tarrant,3-Arlington,309493,14.44,2143755
+2020,Taylor,2-Abilene,19398,13.91,139457
+2020,Terrell,9-Midland,117,11.1,1054
+2020,Terry,1-Lubbock,1934,14.83,13040
+2020,Throckmorton,2-Abilene,175,11.52,1519
+2020,Titus,4-Tyler,5118,15.53,32953
+2020,Tom Green,9-Midland,15459,12.54,123276
+2020,Travis,7-Austin,155081,12.01,1291502
+2020,Trinity,5-Beaumont,1501,10.55,14233
+2020,Tyler,5-Beaumont,2257,10.57,21343
+2020,Upshur,4-Tyler,5317,12.76,41655
+2020,Upton,9-Midland,616,15.47,3983
+2020,Uvalde,8-San Antonio,4040,14.46,27937
+2020,Val Verde,8-San Antonio,7305,15.14,48253
+2020,Van Zandt,4-Tyler,6885,12.41,55469
+2020,Victoria,8-San Antonio,13258,13.56,97744
+2020,Walker,6-Houston,7576,10.24,73997
+2020,Waller,6-Houston,7447,14.68,50731
+2020,Ward,9-Midland,2152,15.83,13592
+2020,Washington,7-Austin,4483,12.75,35155
+2020,Webb,11-Edinburg,46054,16.68,276183
+2020,Wharton,6-Houston,6069,14.47,41941
+2020,Wheeler,1-Lubbock,819,14.16,5783
+2020,Wichita,2-Abilene,15792,11.86,133138
+2020,Wilbarger,2-Abilene,1643,12.6,13038
+2020,Willacy,11-Edinburg,2937,13.27,22134
+2020,Williamson,7-Austin,83584,14.17,589914
+2020,Wilson,8-San Antonio,6581,12.7,51802
+2020,Winkler,9-Midland,1610,17.32,9295
+2020,Wise,3-Arlington,8539,12.98,65807
+2020,Wood,4-Tyler,4959,10.95,45292
+2020,Yoakum,1-Lubbock,1612,17.47,9225
+2020,Young,2-Abilene,2327,12.44,18712
+2020,Zapata,11-Edinburg,2552,17.71,14409
+2020,Zavala,8-San Antonio,2100,16.56,12682
+2020,All Counties,All Regions,,,29677668
+2019,Anderson,4-Tyler,6327,10.86,58248
+2019,Andrews,9-Midland,3593,16.86,21305
+2019,Angelina,5-Beaumont,13119,14.55,90151
+2019,Aransas,11-Edinburg,2881,10.59,27198
+2019,Archer,2-Abilene,1031,12.28,8393
+2019,Armstrong,1-Lubbock,199,10.2,1951
+2019,Atascosa,8-San Antonio,7366,14.43,51048
+2019,Austin,6-Houston,3870,12.81,30207
+2019,Bailey,1-Lubbock,1329,17.4,7638
+2019,Bandera,8-San Antonio,1941,9.17,21174
+2019,Bastrop,7-Austin,12154,14.32,84866
+2019,Baylor,2-Abilene,442,12.18,3629
+2019,Bee,11-Edinburg,3981,11.64,34195
+2019,Bell,7-Austin,55017,15.74,349441
+2019,Bexar,8-San Antonio,287054,13.98,2053260
+2019,Blanco,7-Austin,1193,10.47,11393
+2019,Borden,9-Midland,63,9.25,681
+2019,Bosque,7-Austin,2079,11.68,17793
+2019,Bowie,4-Tyler,11623,12.55,92596
+2019,Brazoria,6-Houston,54128,14.66,369156
+2019,Brazos,7-Austin,27723,12.31,225224
+2019,Brewster,10-El Paso,1020,11.14,9157
+2019,Briscoe,1-Lubbock,185,11.77,1572
+2019,Brooks,11-Edinburg,992,13.82,7178
+2019,Brown,2-Abilene,4965,12.77,38873
+2019,Burleson,7-Austin,2293,12.99,17649
+2019,Burnet,7-Austin,5723,12.01,47634
+2019,Caldwell,7-Austin,6332,14.52,43618
+2019,Calhoun,8-San Antonio,3099,13.65,22707
+2019,Callahan,2-Abilene,1546,11.49,13454
+2019,Cameron,11-Edinburg,70383,16.51,426216
+2019,Camp,4-Tyler,1866,14.1,13231
+2019,Carson,1-Lubbock,803,13.77,5832
+2019,Cass,4-Tyler,3628,11.95,30365
+2019,Castro,1-Lubbock,1054,14.66,7190
+2019,Chambers,6-Houston,6036,14.56,41451
+2019,Cherokee,4-Tyler,7568,14.53,52090
+2019,Childress,1-Lubbock,814,11.52,7068
+2019,Clay,2-Abilene,1118,11.31,9885
+2019,Cochran,1-Lubbock,534,16.11,3315
+2019,Coke,9-Midland,351,10.88,3226
+2019,Coleman,2-Abilene,1083,12.7,8527
+2019,Collin,3-Arlington,149932,14.83,1010828
+2019,Collingsworth,1-Lubbock,472,14.81,3188
+2019,Colorado,6-Houston,2740,12.9,21239
+2019,Comal,8-San Antonio,17972,12.59,142701
+2019,Comanche,2-Abilene,1629,12.37,13173
+2019,Concho,9-Midland,341,8.24,4136
+2019,Cooke,3-Arlington,5276,13.32,39595
+2019,Coryell,7-Austin,11326,14.52,77978
+2019,Cottle,2-Abilene,180,11.88,1515
+2019,Crane,9-Midland,910,15.19,5991
+2019,Crockett,9-Midland,548,13.67,4010
+2019,Crosby,1-Lubbock,961,14.99,6413
+2019,Culberson,10-El Paso,238,10.53,2261
+2019,Dallam,1-Lubbock,1248,17.4,7173
+2019,Dallas,3-Arlington,396479,14.7,2697424
+2019,Dawson,9-Midland,1830,13.45,13611
+2019,DeWitt,8-San Antonio,2539,11.77,21573
+2019,Deaf Smith,1-Lubbock,3145,17.23,18255
+2019,Delta,4-Tyler,623,11.61,5366
+2019,Denton,3-Arlington,124190,14.26,870845
+2019,Dickens,1-Lubbock,195,8.91,2188
+2019,Dimmit,8-San Antonio,1858,16.11,11533
+2019,Donley,1-Lubbock,352,10.23,3440
+2019,Duval,11-Edinburg,1633,13.84,11803
+2019,Eastland,2-Abilene,2290,12.54,18261
+2019,Ector,9-Midland,29254,16.32,179208
+2019,Edwards,8-San Antonio,231,11.53,2004
+2019,El Paso,10-El Paso,128407,14.78,869040
+2019,Ellis,3-Arlington,25963,14.86,174749
+2019,Erath,3-Arlington,5062,12.32,41086
+2019,Falls,7-Austin,1912,11.44,16712
+2019,Fannin,3-Arlington,3908,11.32,34524
+2019,Fayette,7-Austin,3202,12.36,25900
+2019,Fisher,2-Abilene,467,11.72,3983
+2019,Floyd,1-Lubbock,792,13.58,5834
+2019,Foard,2-Abilene,125,10.08,1240
+2019,Fort Bend,6-Houston,119642,14.76,810619
+2019,Franklin,4-Tyler,1485,13.64,10885
+2019,Freestone,7-Austin,2485,12.5,19879
+2019,Frio,8-San Antonio,2547,12.92,19718
+2019,Gaines,9-Midland,4060,18.78,21620
+2019,Galveston,6-Houston,47356,13.59,348442
+2019,Garza,1-Lubbock,781,11.56,6756
+2019,Gillespie,8-San Antonio,2842,10.92,26019
+2019,Glasscock,9-Midland,174,12.9,1349
+2019,Goliad,8-San Antonio,906,11.81,7672
+2019,Gonzales,8-San Antonio,3110,14.66,21216
+2019,Gray,1-Lubbock,3381,14.06,24040
+2019,Grayson,3-Arlington,17202,13.17,130657
+2019,Gregg,4-Tyler,17986,14.34,125425
+2019,Grimes,7-Austin,3525,12.28,28710
+2019,Guadalupe,8-San Antonio,23112,13.94,165837
+2019,Hale,1-Lubbock,5074,15.13,33527
+2019,Hall,1-Lubbock,435,13.13,3312
+2019,Hamilton,7-Austin,1018,12.36,8234
+2019,Hansford,1-Lubbock,954,16.44,5802
+2019,Hardeman,2-Abilene,502,12.91,3888
+2019,Hardin,5-Beaumont,7553,13.4,56350
+2019,Harris,6-Houston,718685,14.71,4887341
+2019,Harrison,4-Tyler,9531,14.02,68004
+2019,Hartley,1-Lubbock,726,11.97,6064
+2019,Haskell,2-Abilene,692,11.25,6150
+2019,Hays,7-Austin,30344,13.46,225516
+2019,Hemphill,1-Lubbock,851,18.8,4527
+2019,Henderson,4-Tyler,9678,11.95,80985
+2019,Hidalgo,11-Edinburg,146498,17.02,860844
+2019,Hill,7-Austin,4648,13.04,35644
+2019,Hockley,1-Lubbock,3554,14.53,24455
+2019,Hood,3-Arlington,6721,11.61,57881
+2019,Hopkins,4-Tyler,4923,13.35,36879
+2019,Houston,5-Beaumont,2499,10.99,22738
+2019,Howard,9-Midland,5102,12.59,40521
+2019,Hudspeth,10-El Paso,389,11.44,3401
+2019,Hunt,3-Arlington,12013,12.74,94285
+2019,Hutchinson,1-Lubbock,3019,14.03,21511
+2019,Irion,9-Midland,152,10.05,1513
+2019,Jack,2-Abilene,1005,11.36,8845
+2019,Jackson,8-San Antonio,2218,14.13,15699
+2019,Jasper,5-Beaumont,4603,12.93,35593
+2019,Jeff Davis,10-El Paso,215,10.1,2129
+2019,Jefferson,5-Beaumont,32116,12.45,258020
+2019,Jim Hogg,11-Edinburg,799,15.67,5099
+2019,Jim Wells,11-Edinburg,6261,14.66,42697
+2019,Johnson,3-Arlington,24103,14.21,169575
+2019,Jones,2-Abilene,1866,9.44,19766
+2019,Karnes,8-San Antonio,1765,11.53,15309
+2019,Kaufman,3-Arlington,17848,14.54,122724
+2019,Kendall,8-San Antonio,5850,13.09,44686
+2019,Kenedy,11-Edinburg,48,10.21,470
+2019,Kent,2-Abilene,90,11.36,792
+2019,Kerr,8-San Antonio,5784,11.12,51993
+2019,Kimble,9-Midland,458,10.49,4365
+2019,King,1-Lubbock,29,9.48,306
+2019,Kinney,8-San Antonio,387,11.17,3465
+2019,Kleberg,11-Edinburg,4324,13.95,31002
+2019,Knox,2-Abilene,576,14.72,3912
+2019,La Salle,8-San Antonio,848,10.4,8154
+2019,Lamar,4-Tyler,6231,12.45,50032
+2019,Lamb,1-Lubbock,1828,14.17,12903
+2019,Lampasas,7-Austin,2576,12.33,20885
+2019,Lavaca,8-San Antonio,2766,13.48,20522
+2019,Lee,7-Austin,2447,13.98,17502
+2019,Leon,7-Austin,2087,11.85,17617
+2019,Liberty,6-Houston,11190,13.28,84278
+2019,Limestone,7-Austin,2902,12.33,23544
+2019,Lipscomb,1-Lubbock,512,14.15,3618
+2019,Live Oak,11-Edinburg,1333,11.14,11970
+2019,Llano,7-Austin,1684,8.67,19428
+2019,Loving,9-Midland,5,5.49,91
+2019,Lubbock,1-Lubbock,42489,13.59,312653
+2019,Lynn,1-Lubbock,787,14.02,5613
+2019,Madison,7-Austin,1738,12.05,14420
+2019,Marion,4-Tyler,1046,10.11,10343
+2019,Martin,9-Midland,872,14.78,5898
+2019,Mason,9-Midland,442,11.33,3901
+2019,Matagorda,6-Houston,4961,13.38,37064
+2019,Maverick,8-San Antonio,9832,16.56,59379
+2019,McCulloch,9-Midland,1104,12.81,8619
+2019,McLennan,7-Austin,36181,14.4,251303
+2019,McMullen,11-Edinburg,63,8.14,774
+2019,Medina,8-San Antonio,6552,13.07,50118
+2019,Menard,9-Midland,241,11.03,2185
+2019,Midland,9-Midland,27190,15.02,181073
+2019,Milam,7-Austin,3389,13.75,24655
+2019,Mills,7-Austin,574,11.77,4876
+2019,Mitchell,2-Abilene,1002,10.22,9802
+2019,Montague,2-Abilene,2351,12.21,19247
+2019,Montgomery,6-Houston,85801,14.4,595887
+2019,Moore,1-Lubbock,3585,16.59,21612
+2019,Morris,4-Tyler,1503,12.02,12506
+2019,Motley,1-Lubbock,135,11.5,1174
+2019,Nacogdoches,5-Beaumont,7057,11.03,63981
+2019,Navarro,3-Arlington,6639,13.84,47977
+2019,Newton,5-Beaumont,1519,11.02,13784
+2019,Nolan,2-Abilene,2328,14.93,15589
+2019,Nueces,11-Edinburg,51361,13.55,379038
+2019,Ochiltree,1-Lubbock,1861,16.63,11190
+2019,Oldham,1-Lubbock,400,18.25,2192
+2019,Orange,5-Beaumont,11044,12.88,85744
+2019,Palo Pinto,3-Arlington,3532,12.66,27891
+2019,Panola,4-Tyler,3288,13.4,24531
+2019,Parker,3-Arlington,17660,13.22,133578
+2019,Parmer,1-Lubbock,1420,15.29,9288
+2019,Pecos,9-Midland,2113,12.82,16477
+2019,Polk,5-Beaumont,5168,10.61,48689
+2019,Potter,1-Lubbock,17393,14.18,122653
+2019,Presidio,10-El Paso,778,12.86,6049
+2019,Rains,4-Tyler,1178,10.4,11325
+2019,Randall,1-Lubbock,18217,13.39,136026
+2019,Reagan,9-Midland,661,16.04,4122
+2019,Real,8-San Antonio,343,10.08,3403
+2019,Red River,4-Tyler,1362,10.77,12645
+2019,Reeves,9-Midland,1873,12.08,15501
+2019,Refugio,11-Edinburg,932,12.32,7563
+2019,Roberts,1-Lubbock,126,12.9,977
+2019,Robertson,7-Austin,2059,12.22,16856
+2019,Rockwall,3-Arlington,14997,15.05,99619
+2019,Runnels,2-Abilene,1456,13.3,10948
+2019,Rusk,4-Tyler,6524,12.35,52822
+2019,Sabine,5-Beaumont,1052,10.5,10019
+2019,San Augustine,5-Beaumont,847,10.03,8445
+2019,San Jacinto,5-Beaumont,3501,12.24,28602
+2019,San Patricio,11-Edinburg,10115,14.32,70615
+2019,San Saba,7-Austin,676,11.48,5890
+2019,Schleicher,9-Midland,489,14.82,3300
+2019,Scurry,2-Abilene,2620,14.39,18208
+2019,Shackelford,2-Abilene,444,13.08,3394
+2019,Shelby,5-Beaumont,3685,14.41,25565
+2019,Sherman,1-Lubbock,495,15.28,3239
+2019,Smith,4-Tyler,31655,13.6,232715
+2019,Somervell,3-Arlington,1095,11.91,9194
+2019,Starr,11-Edinburg,10698,16.6,64444
+2019,Stephens,2-Abilene,1193,12.46,9573
+2019,Sterling,9-Midland,161,13,1238
+2019,Stonewall,2-Abilene,185,12.18,1519
+2019,Sutton,9-Midland,512,11.77,4350
+2019,Swisher,1-Lubbock,1039,13.96,7444
+2019,Tarrant,3-Arlington,307087,14.56,2108938
+2019,Taylor,2-Abilene,19152,13.81,138697
+2019,Terrell,9-Midland,116,11.07,1048
+2019,Terry,1-Lubbock,1914,14.72,13001
+2019,Throckmorton,2-Abilene,171,11.19,1528
+2019,Titus,4-Tyler,5118,15.54,32934
+2019,Tom Green,9-Midland,15256,12.52,121814
+2019,Travis,7-Austin,153390,12.12,1265178
+2019,Trinity,5-Beaumont,1516,10.61,14285
+2019,Tyler,5-Beaumont,2251,10.53,21379
+2019,Upshur,4-Tyler,5385,13.01,41389
+2019,Upton,9-Midland,611,15.6,3916
+2019,Uvalde,8-San Antonio,4059,14.64,27729
+2019,Val Verde,8-San Antonio,7450,15.41,48334
+2019,Van Zandt,4-Tyler,6887,12.48,55170
+2019,Victoria,8-San Antonio,13165,13.64,96533
+2019,Walker,6-Houston,7318,9.99,73219
+2019,Waller,6-Houston,7199,14.41,49950
+2019,Ward,9-Midland,2116,15.99,13230
+2019,Washington,7-Austin,4446,12.7,35010
+2019,Webb,11-Edinburg,46332,16.94,273467
+2019,Wharton,6-Houston,6133,14.64,41883
+2019,Wheeler,1-Lubbock,810,14.08,5751
+2019,Wichita,2-Abilene,15923,11.97,133012
+2019,Wilbarger,2-Abilene,1714,13.1,13085
+2019,Willacy,11-Edinburg,2985,13.47,22157
+2019,Williamson,7-Austin,82190,14.4,570803
+2019,Wilson,8-San Antonio,6663,13.11,50837
+2019,Winkler,9-Midland,1511,16.75,9022
+2019,Wise,3-Arlington,8528,13.09,65160
+2019,Wood,4-Tyler,4960,11.02,44993
+2019,Yoakum,1-Lubbock,1576,17.4,9060
+2019,Young,2-Abilene,2346,12.55,18695
+2019,Zapata,11-Edinburg,2546,17.68,14403
+2019,Zavala,8-San Antonio,2085,16.58,12572
+2019,All Counties,All Regions,,,29193268
+2018,Anderson,4-Tyler,6364,10.92,58293
+2018,Andrews,9-Midland,3450,16.92,20388
+2018,Angelina,5-Beaumont,13188,14.68,89860
+2018,Aransas,11-Edinburg,2818,10.55,26700
+2018,Archer,2-Abilene,1037,12.27,8452
+2018,Armstrong,1-Lubbock,208,10.64,1954
+2018,Atascosa,8-San Antonio,7371,14.66,50265
+2018,Austin,6-Houston,3842,12.81,30002
+2018,Bailey,1-Lubbock,1333,17.58,7582
+2018,Bandera,8-San Antonio,1967,9.33,21083
+2018,Bastrop,7-Austin,11981,14.32,83657
+2018,Baylor,2-Abilene,452,12.42,3640
+2018,Bee,11-Edinburg,4016,11.84,33924
+2018,Bell,7-Austin,54094,15.67,345285
+2018,Bexar,8-San Antonio,284409,14.12,2013625
+2018,Blanco,7-Austin,1212,10.72,11303
+2018,Borden,9-Midland,59,8.74,675
+2018,Bosque,7-Austin,2095,11.75,17828
+2018,Bowie,4-Tyler,11753,12.69,92615
+2018,Brazoria,6-Houston,53343,14.71,362609
+2018,Brazos,7-Austin,27085,12.25,221079
+2018,Brewster,10-El Paso,1036,11.27,9192
+2018,Briscoe,1-Lubbock,182,11.55,1576
+2018,Brooks,11-Edinburg,999,13.9,7187
+2018,Brown,2-Abilene,5006,12.89,38827
+2018,Burleson,7-Austin,2323,13.21,17589
+2018,Burnet,7-Austin,5683,12.07,47080
+2018,Caldwell,7-Austin,6323,14.72,42953
+2018,Calhoun,8-San Antonio,3112,13.79,22570
+2018,Callahan,2-Abilene,1584,11.79,13437
+2018,Cameron,11-Edinburg,71541,16.85,424462
+2018,Camp,4-Tyler,1867,14.2,13145
+2018,Carson,1-Lubbock,816,13.95,5848
+2018,Cass,4-Tyler,3670,12.07,30399
+2018,Castro,1-Lubbock,1085,14.91,7275
+2018,Chambers,6-Houston,5965,14.68,40629
+2018,Cherokee,4-Tyler,7559,14.54,51985
+2018,Childress,1-Lubbock,797,11.26,7078
+2018,Clay,2-Abilene,1121,11.23,9984
+2018,Cochran,1-Lubbock,518,15.8,3279
+2018,Coke,9-Midland,376,11.62,3236
+2018,Coleman,2-Abilene,1102,12.86,8569
+2018,Collin,3-Arlington,148692,15.12,983202
+2018,Collingsworth,1-Lubbock,466,14.69,3172
+2018,Colorado,6-Houston,2760,13.02,21199
+2018,Comal,8-San Antonio,17577,12.71,138302
+2018,Comanche,2-Abilene,1631,12.3,13260
+2018,Concho,9-Midland,319,7.72,4132
+2018,Cooke,3-Arlington,5320,13.48,39470
+2018,Coryell,7-Austin,11271,14.52,77622
+2018,Cottle,2-Abilene,188,12.43,1512
+2018,Crane,9-Midland,886,15.32,5783
+2018,Crockett,9-Midland,540,13.56,3982
+2018,Crosby,1-Lubbock,955,15.01,6363
+2018,Culberson,10-El Paso,245,10.77,2275
+2018,Dallam,1-Lubbock,1213,17.06,7112
+2018,Dallas,3-Arlington,393166,14.78,2660715
+2018,Dawson,9-Midland,1830,13.43,13629
+2018,DeWitt,8-San Antonio,2537,11.87,21374
+2018,Deaf Smith,1-Lubbock,3177,17.31,18352
+2018,Delta,4-Tyler,616,11.5,5355
+2018,Denton,3-Arlington,122238,14.47,844707
+2018,Dickens,1-Lubbock,215,9.75,2204
+2018,Dimmit,8-San Antonio,1849,16.31,11335
+2018,Donley,1-Lubbock,346,10,3461
+2018,Duval,11-Edinburg,1616,13.68,11814
+2018,Eastland,2-Abilene,2323,12.69,18307
+2018,Ector,9-Midland,28123,16.18,173797
+2018,Edwards,8-San Antonio,229,11.38,2012
+2018,El Paso,10-El Paso,129780,15.06,861806
+2018,Ellis,3-Arlington,25895,15.07,171816
+2018,Erath,3-Arlington,5009,12.32,40662
+2018,Falls,7-Austin,1955,11.61,16835
+2018,Fannin,3-Arlington,3924,11.39,34459
+2018,Fayette,7-Austin,3180,12.36,25722
+2018,Fisher,2-Abilene,468,11.74,3985
+2018,Floyd,1-Lubbock,814,13.83,5886
+2018,Foard,2-Abilene,125,10.02,1248
+2018,Fort Bend,6-Houston,117528,15.03,781965
+2018,Franklin,4-Tyler,1480,13.64,10847
+2018,Freestone,7-Austin,2532,12.74,19872
+2018,Frio,8-San Antonio,2561,13.19,19421
+2018,Gaines,9-Midland,3962,18.75,21130
+2018,Galveston,6-Houston,46727,13.67,341737
+2018,Garza,1-Lubbock,735,10.93,6725
+2018,Gillespie,8-San Antonio,2804,10.85,25848
+2018,Glasscock,9-Midland,178,13.32,1336
+2018,Goliad,8-San Antonio,906,11.89,7622
+2018,Gonzales,8-San Antonio,3088,14.65,21075
+2018,Gray,1-Lubbock,3323,13.94,23830
+2018,Grayson,3-Arlington,17119,13.21,129610
+2018,Gregg,4-Tyler,17866,14.28,125113
+2018,Grimes,7-Austin,3532,12.4,28476
+2018,Guadalupe,8-San Antonio,22872,14.16,161541
+2018,Hale,1-Lubbock,5108,15.1,33824
+2018,Hall,1-Lubbock,442,13.35,3311
+2018,Hamilton,7-Austin,998,12.09,8254
+2018,Hansford,1-Lubbock,967,16.73,5780
+2018,Hardeman,2-Abilene,504,12.93,3899
+2018,Hardin,5-Beaumont,7647,13.6,56216
+2018,Harris,6-Houston,708160,14.76,4796533
+2018,Harrison,4-Tyler,9555,14.1,67764
+2018,Hartley,1-Lubbock,725,12,6041
+2018,Haskell,2-Abilene,684,11.2,6107
+2018,Hays,7-Austin,29364,13.56,216516
+2018,Hemphill,1-Lubbock,803,18.14,4426
+2018,Henderson,4-Tyler,9706,12.02,80755
+2018,Hidalgo,11-Edinburg,147024,17.27,851285
+2018,Hill,7-Austin,4702,13.2,35617
+2018,Hockley,1-Lubbock,3552,14.64,24257
+2018,Hood,3-Arlington,6618,11.59,57119
+2018,Hopkins,4-Tyler,4939,13.45,36710
+2018,Houston,5-Beaumont,2471,10.82,22832
+2018,Howard,9-Midland,5022,12.61,39836
+2018,Hudspeth,10-El Paso,411,12.1,3398
+2018,Hunt,3-Arlington,12010,12.87,93305
+2018,Hutchinson,1-Lubbock,3039,14.09,21563
+2018,Irion,9-Midland,152,10.01,1518
+2018,Jack,2-Abilene,1004,11.32,8866
+2018,Jackson,8-San Antonio,2188,14.1,15520
+2018,Jasper,5-Beaumont,4643,13.02,35649
+2018,Jeff Davis,10-El Paso,215,10,2151
+2018,Jefferson,5-Beaumont,32029,12.45,257363
+2018,Jim Hogg,11-Edinburg,800,15.62,5122
+2018,Jim Wells,11-Edinburg,6328,14.89,42509
+2018,Johnson,3-Arlington,23975,14.32,167450
+2018,Jones,2-Abilene,1889,9.55,19790
+2018,Karnes,8-San Antonio,1762,11.56,15238
+2018,Kaufman,3-Arlington,17801,14.78,120400
+2018,Kendall,8-San Antonio,5736,13.29,43173
+2018,Kenedy,11-Edinburg,48,10.34,464
+2018,Kent,2-Abilene,94,11.88,791
+2018,Kerr,8-San Antonio,5817,11.25,51716
+2018,Kimble,9-Midland,460,10.49,4387
+2018,King,1-Lubbock,30,9.9,303
+2018,Kinney,8-San Antonio,389,11.22,3467
+2018,Kleberg,11-Edinburg,4290,13.83,31028
+2018,Knox,2-Abilene,566,14.56,3888
+2018,La Salle,8-San Antonio,838,10.48,8000
+2018,Lamar,4-Tyler,6279,12.55,50031
+2018,Lamb,1-Lubbock,1861,14.3,13018
+2018,Lampasas,7-Austin,2561,12.36,20727
+2018,Lavaca,8-San Antonio,2755,13.56,20324
+2018,Lee,7-Austin,2466,14.17,17407
+2018,Leon,7-Austin,2076,11.86,17504
+2018,Liberty,6-Houston,11045,13.26,83276
+2018,Limestone,7-Austin,2921,12.4,23556
+2018,Lipscomb,1-Lubbock,496,13.88,3573
+2018,Live Oak,11-Edinburg,1321,11.09,11912
+2018,Llano,7-Austin,1712,8.82,19408
+2018,Loving,9-Midland,5,5.56,90
+2018,Lubbock,1-Lubbock,41891,13.59,308208
+2018,Lynn,1-Lubbock,793,14.06,5642
+2018,Madison,7-Austin,1725,12.05,14312
+2018,Marion,4-Tyler,1044,10.05,10389
+2018,Martin,9-Midland,867,15.06,5757
+2018,Mason,9-Midland,435,11.14,3904
+2018,Matagorda,6-Houston,5012,13.53,37045
+2018,Maverick,8-San Antonio,9932,16.89,58820
+2018,McCulloch,9-Midland,1090,12.71,8576
+2018,McLennan,7-Austin,36190,14.51,249470
+2018,McMullen,11-Edinburg,67,8.75,766
+2018,Medina,8-San Antonio,6546,13.19,49615
+2018,Menard,9-Midland,228,10.43,2187
+2018,Midland,9-Midland,26225,14.98,175090
+2018,Milam,7-Austin,3412,13.84,24662
+2018,Mills,7-Austin,587,12.02,4885
+2018,Mitchell,2-Abilene,1005,10.29,9764
+2018,Montague,2-Abilene,2374,12.3,19298
+2018,Montgomery,6-Houston,83966,14.52,578410
+2018,Moore,1-Lubbock,3630,16.76,21660
+2018,Morris,4-Tyler,1508,12.01,12551
+2018,Motley,1-Lubbock,143,12.15,1177
+2018,Nacogdoches,5-Beaumont,7055,11.05,63839
+2018,Navarro,3-Arlington,6694,13.96,47962
+2018,Newton,5-Beaumont,1569,11.33,13847
+2018,Nolan,2-Abilene,2321,14.95,15524
+2018,Nueces,11-Edinburg,51265,13.69,374431
+2018,Ochiltree,1-Lubbock,1871,16.9,11073
+2018,Oldham,1-Lubbock,419,19.25,2177
+2018,Orange,5-Beaumont,11011,12.91,85320
+2018,Palo Pinto,3-Arlington,3590,12.85,27931
+2018,Panola,4-Tyler,3342,13.66,24471
+2018,Parker,3-Arlington,17476,13.28,131578
+2018,Parmer,1-Lubbock,1436,15.3,9387
+2018,Pecos,9-Midland,2086,12.72,16397
+2018,Polk,5-Beaumont,5194,10.76,48283
+2018,Potter,1-Lubbock,17477,14.26,122573
+2018,Presidio,10-El Paso,828,13.34,6206
+2018,Rains,4-Tyler,1188,10.53,11281
+2018,Randall,1-Lubbock,17952,13.4,134004
+2018,Reagan,9-Midland,645,16.06,4017
+2018,Real,8-San Antonio,343,10.11,3392
+2018,Red River,4-Tyler,1374,10.84,12673
+2018,Reeves,9-Midland,1847,12.08,15287
+2018,Refugio,11-Edinburg,997,13.2,7554
+2018,Roberts,1-Lubbock,141,14.45,976
+2018,Robertson,7-Austin,2106,12.52,16823
+2018,Rockwall,3-Arlington,15034,15.49,97062
+2018,Runnels,2-Abilene,1450,13.31,10890
+2018,Rusk,4-Tyler,6567,12.42,52892
+2018,Sabine,5-Beaumont,1070,10.58,10116
+2018,San Augustine,5-Beaumont,861,10.13,8498
+2018,San Jacinto,5-Beaumont,3556,12.54,28348
+2018,San Patricio,11-Edinburg,10161,14.53,69908
+2018,San Saba,7-Austin,671,11.37,5901
+2018,Schleicher,9-Midland,501,15.22,3292
+2018,Scurry,2-Abilene,2588,14.34,18045
+2018,Shackelford,2-Abilene,455,13.43,3387
+2018,Shelby,5-Beaumont,3725,14.56,25580
+2018,Sherman,1-Lubbock,501,15.6,3211
+2018,Smith,4-Tyler,31683,13.76,230250
+2018,Somervell,3-Arlington,1134,12.46,9101
+2018,Starr,11-Edinburg,10869,16.95,64118
+2018,Stephens,2-Abilene,1206,12.61,9567
+2018,Sterling,9-Midland,158,12.88,1227
+2018,Stonewall,2-Abilene,179,11.83,1513
+2018,Sutton,9-Midland,511,11.82,4325
+2018,Swisher,1-Lubbock,1058,14.13,7486
+2018,Tarrant,3-Arlington,304444,14.68,2074551
+2018,Taylor,2-Abilene,18993,13.77,137915
+2018,Terrell,9-Midland,120,11.49,1044
+2018,Terry,1-Lubbock,1864,14.38,12961
+2018,Throckmorton,2-Abilene,170,11.06,1537
+2018,Titus,4-Tyler,5157,15.68,32896
+2018,Tom Green,9-Midland,15084,12.53,120367
+2018,Travis,7-Austin,151523,12.23,1238590
+2018,Trinity,5-Beaumont,1515,10.58,14321
+2018,Tyler,5-Beaumont,2250,10.52,21396
+2018,Upshur,4-Tyler,5393,13.11,41140
+2018,Upton,9-Midland,588,15.26,3853
+2018,Uvalde,8-San Antonio,4104,14.9,27541
+2018,Val Verde,8-San Antonio,7437,15.36,48408
+2018,Van Zandt,4-Tyler,6945,12.65,54886
+2018,Victoria,8-San Antonio,13066,13.7,95346
+2018,Walker,6-Houston,7167,9.89,72447
+2018,Waller,6-Houston,7064,14.38,49136
+2018,Ward,9-Midland,2043,15.86,12880
+2018,Washington,7-Austin,4412,12.66,34859
+2018,Webb,11-Edinburg,46597,17.21,270758
+2018,Wharton,6-Houston,6124,14.64,41833
+2018,Wheeler,1-Lubbock,789,13.81,5712
+2018,Wichita,2-Abilene,15979,12.03,132841
+2018,Wilbarger,2-Abilene,1737,13.23,13130
+2018,Willacy,11-Edinburg,3030,13.67,22162
+2018,Williamson,7-Austin,80859,14.64,552353
+2018,Wilson,8-San Antonio,6721,13.47,49908
+2018,Winkler,9-Midland,1440,16.45,8754
+2018,Wise,3-Arlington,8519,13.21,64505
+2018,Wood,4-Tyler,4984,11.16,44666
+2018,Yoakum,1-Lubbock,1533,17.23,8899
+2018,Young,2-Abilene,2356,12.62,18667
+2018,Zapata,11-Edinburg,2502,17.4,14377
+2018,Zavala,8-San Antonio,2064,16.55,12472
+2018,All Counties,All Regions,,,28716123
+2017,Anderson,4-Tyler,6397,10.96,58342
+2017,Andrews,9-Midland,3256,16.68,19526
+2017,Angelina,5-Beaumont,13175,14.71,89557
+2017,Aransas,11-Edinburg,2701,10.3,26228
+2017,Archer,2-Abilene,1082,12.71,8516
+2017,Armstrong,1-Lubbock,210,10.76,1952
+2017,Atascosa,8-San Antonio,7300,14.75,49504
+2017,Austin,6-Houston,3841,12.89,29801
+2017,Bailey,1-Lubbock,1319,17.53,7525
+2017,Bandera,8-San Antonio,1978,9.42,20992
+2017,Bastrop,7-Austin,11879,14.41,82448
+2017,Baylor,2-Abilene,463,12.7,3645
+2017,Bee,11-Edinburg,4048,12.03,33657
+2017,Bell,7-Austin,53173,15.59,341136
+2017,Bexar,8-San Antonio,280984,14.23,1974510
+2017,Blanco,7-Austin,1240,11.07,11201
+2017,Borden,9-Midland,61,9.12,669
+2017,Bosque,7-Austin,2137,11.96,17875
+2017,Bowie,4-Tyler,11783,12.72,92598
+2017,Brazoria,6-Houston,52789,14.82,356123
+2017,Brazos,7-Austin,26190,12.07,217040
+2017,Brewster,10-El Paso,1078,11.71,9204
+2017,Briscoe,1-Lubbock,184,11.63,1582
+2017,Brooks,11-Edinburg,1008,14.01,7195
+2017,Brown,2-Abilene,5103,13.17,38758
+2017,Burleson,7-Austin,2276,12.97,17551
+2017,Burnet,7-Austin,5695,12.24,46513
+2017,Caldwell,7-Austin,6229,14.72,42322
+2017,Calhoun,8-San Antonio,3127,13.94,22436
+2017,Callahan,2-Abilene,1621,12.06,13442
+2017,Cameron,11-Edinburg,72379,17.13,422582
+2017,Camp,4-Tyler,1855,14.22,13047
+2017,Carson,1-Lubbock,827,14.07,5877
+2017,Cass,4-Tyler,3721,12.22,30442
+2017,Castro,1-Lubbock,1118,15.18,7365
+2017,Chambers,6-Houston,5921,14.86,39835
+2017,Cherokee,4-Tyler,7572,14.6,51873
+2017,Childress,1-Lubbock,804,11.36,7079
+2017,Clay,2-Abilene,1126,11.18,10075
+2017,Cochran,1-Lubbock,511,15.72,3251
+2017,Coke,9-Midland,385,11.86,3246
+2017,Coleman,2-Abilene,1103,12.81,8609
+2017,Collin,3-Arlington,147121,15.38,956327
+2017,Collingsworth,1-Lubbock,461,14.63,3151
+2017,Colorado,6-Houston,2748,13,21145
+2017,Comal,8-San Antonio,17205,12.83,134065
+2017,Comanche,2-Abilene,1659,12.43,13346
+2017,Concho,9-Midland,313,7.59,4124
+2017,Cooke,3-Arlington,5273,13.4,39339
+2017,Coryell,7-Austin,11297,14.61,77317
+2017,Cottle,2-Abilene,198,13.08,1514
+2017,Crane,9-Midland,884,15.85,5577
+2017,Crockett,9-Midland,532,13.46,3953
+2017,Crosby,1-Lubbock,942,14.89,6326
+2017,Culberson,10-El Paso,248,10.84,2288
+2017,Dallam,1-Lubbock,1192,16.88,7060
+2017,Dallas,3-Arlington,388057,14.79,2624075
+2017,Dawson,9-Midland,1817,13.32,13644
+2017,DeWitt,8-San Antonio,2524,11.91,21199
+2017,Deaf Smith,1-Lubbock,3192,17.28,18470
+2017,Delta,4-Tyler,640,11.99,5340
+2017,Denton,3-Arlington,119903,14.63,819532
+2017,Dickens,1-Lubbock,221,9.94,2223
+2017,Dimmit,8-San Antonio,1826,16.39,11140
+2017,Donley,1-Lubbock,352,10.09,3488
+2017,Duval,11-Edinburg,1657,14.02,11822
+2017,Eastland,2-Abilene,2342,12.76,18357
+2017,Ector,9-Midland,27102,16.08,168589
+2017,Edwards,8-San Antonio,233,11.6,2009
+2017,El Paso,10-El Paso,130546,15.28,854479
+2017,Ellis,3-Arlington,25780,15.26,168947
+2017,Erath,3-Arlington,4943,12.29,40231
+2017,Falls,7-Austin,1990,11.73,16972
+2017,Fannin,3-Arlington,4010,11.67,34370
+2017,Fayette,7-Austin,3153,12.34,25545
+2017,Fisher,2-Abilene,474,11.91,3979
+2017,Floyd,1-Lubbock,819,13.82,5928
+2017,Foard,2-Abilene,124,9.87,1256
+2017,Fort Bend,6-Houston,115418,15.3,754361
+2017,Franklin,4-Tyler,1487,13.77,10802
+2017,Freestone,7-Austin,2538,12.78,19863
+2017,Frio,8-San Antonio,2556,13.36,19130
+2017,Gaines,9-Midland,3840,18.58,20667
+2017,Galveston,6-Houston,45965,13.71,335200
+2017,Garza,1-Lubbock,723,10.81,6691
+2017,Gillespie,8-San Antonio,2772,10.79,25682
+2017,Glasscock,9-Midland,178,13.51,1318
+2017,Goliad,8-San Antonio,900,11.88,7575
+2017,Gonzales,8-San Antonio,3062,14.62,20937
+2017,Gray,1-Lubbock,3240,13.72,23623
+2017,Grayson,3-Arlington,16970,13.2,128563
+2017,Gregg,4-Tyler,17752,14.23,124780
+2017,Grimes,7-Austin,3498,12.39,28230
+2017,Guadalupe,8-San Antonio,22556,14.33,157370
+2017,Hale,1-Lubbock,5227,15.31,34150
+2017,Hall,1-Lubbock,442,13.36,3308
+2017,Hamilton,7-Austin,1014,12.26,8274
+2017,Hansford,1-Lubbock,968,16.83,5753
+2017,Hardeman,2-Abilene,503,12.82,3923
+2017,Hardin,5-Beaumont,7759,13.84,56051
+2017,Harris,6-Houston,697552,14.82,4706369
+2017,Harrison,4-Tyler,9588,14.2,67523
+2017,Hartley,1-Lubbock,733,12.14,6040
+2017,Haskell,2-Abilene,685,11.3,6061
+2017,Hays,7-Austin,28359,13.64,207880
+2017,Hemphill,1-Lubbock,780,17.99,4336
+2017,Henderson,4-Tyler,9755,12.11,80527
+2017,Hidalgo,11-Edinburg,146983,17.47,841585
+2017,Hill,7-Austin,4707,13.23,35582
+2017,Hockley,1-Lubbock,3545,14.72,24083
+2017,Hood,3-Arlington,6518,11.56,56362
+2017,Hopkins,4-Tyler,4925,13.48,36535
+2017,Houston,5-Beaumont,2515,10.97,22931
+2017,Howard,9-Midland,4976,12.7,39167
+2017,Hudspeth,10-El Paso,434,12.77,3399
+2017,Hunt,3-Arlington,11915,12.91,92298
+2017,Hutchinson,1-Lubbock,3016,13.95,21624
+2017,Irion,9-Midland,164,10.76,1524
+2017,Jack,2-Abilene,1030,11.59,8888
+2017,Jackson,8-San Antonio,2162,14.1,15330
+2017,Jasper,5-Beaumont,4668,13.08,35679
+2017,Jeff Davis,10-El Paso,219,10.1,2168
+2017,Jefferson,5-Beaumont,31868,12.42,256679
+2017,Jim Hogg,11-Edinburg,768,14.91,5150
+2017,Jim Wells,11-Edinburg,6271,14.83,42298
+2017,Johnson,3-Arlington,23883,14.44,165360
+2017,Jones,2-Abilene,1921,9.69,19827
+2017,Karnes,8-San Antonio,1757,11.58,15171
+2017,Kaufman,3-Arlington,17544,14.86,118095
+2017,Kendall,8-San Antonio,5584,13.37,41764
+2017,Kenedy,11-Edinburg,46,10.04,458
+2017,Kent,2-Abilene,96,12.2,787
+2017,Kerr,8-San Antonio,5804,11.29,51421
+2017,Kimble,9-Midland,460,10.41,4420
+2017,King,1-Lubbock,33,10.96,301
+2017,Kinney,8-San Antonio,385,11.1,3468
+2017,Kleberg,11-Edinburg,4195,13.51,31057
+2017,Knox,2-Abilene,547,14.15,3866
+2017,La Salle,8-San Antonio,832,10.61,7844
+2017,Lamar,4-Tyler,6312,12.62,50022
+2017,Lamb,1-Lubbock,1923,14.65,13128
+2017,Lampasas,7-Austin,2574,12.51,20581
+2017,Lavaca,8-San Antonio,2683,13.31,20155
+2017,Lee,7-Austin,2474,14.3,17298
+2017,Leon,7-Austin,2073,11.9,17414
+2017,Liberty,6-Houston,10932,13.29,82278
+2017,Limestone,7-Austin,2949,12.53,23538
+2017,Lipscomb,1-Lubbock,487,13.75,3541
+2017,Live Oak,11-Edinburg,1347,11.36,11859
+2017,Llano,7-Austin,1651,8.52,19387
+2017,Loving,9-Midland,5,5.62,89
+2017,Lubbock,1-Lubbock,41140,13.54,303884
+2017,Lynn,1-Lubbock,796,14.06,5663
+2017,Madison,7-Austin,1701,11.96,14223
+2017,Marion,4-Tyler,1018,9.78,10409
+2017,Martin,9-Midland,860,15.29,5626
+2017,Mason,9-Midland,440,11.24,3914
+2017,Matagorda,6-Houston,5046,13.63,37030
+2017,Maverick,8-San Antonio,10014,17.19,58254
+2017,McCulloch,9-Midland,1102,12.91,8539
+2017,McLennan,7-Austin,36064,14.56,247655
+2017,McMullen,11-Edinburg,67,8.8,761
+2017,Medina,8-San Antonio,6632,13.5,49136
+2017,Menard,9-Midland,225,10.26,2194
+2017,Midland,9-Midland,25183,14.87,169373
+2017,Milam,7-Austin,3419,13.86,24661
+2017,Mills,7-Austin,582,11.93,4879
+2017,Mitchell,2-Abilene,1008,10.38,9713
+2017,Montague,2-Abilene,2343,12.11,19350
+2017,Montgomery,6-Houston,81843,14.58,561436
+2017,Moore,1-Lubbock,3583,16.51,21696
+2017,Morris,4-Tyler,1524,12.1,12593
+2017,Motley,1-Lubbock,136,11.49,1184
+2017,Nacogdoches,5-Beaumont,6968,10.94,63691
+2017,Navarro,3-Arlington,6704,13.98,47959
+2017,Newton,5-Beaumont,1574,11.31,13912
+2017,Nolan,2-Abilene,2275,14.7,15478
+2017,Nueces,11-Edinburg,51108,13.82,369869
+2017,Ochiltree,1-Lubbock,1849,16.87,10958
+2017,Oldham,1-Lubbock,421,19.46,2163
+2017,Orange,5-Beaumont,10957,12.91,84886
+2017,Palo Pinto,3-Arlington,3648,13.05,27955
+2017,Panola,4-Tyler,3343,13.7,24402
+2017,Parker,3-Arlington,17186,13.26,129607
+2017,Parmer,1-Lubbock,1471,15.5,9489
+2017,Pecos,9-Midland,2062,12.64,16313
+2017,Polk,5-Beaumont,5146,10.75,47886
+2017,Potter,1-Lubbock,17441,14.24,122482
+2017,Presidio,10-El Paso,859,13.48,6371
+2017,Rains,4-Tyler,1203,10.71,11234
+2017,Randall,1-Lubbock,17719,13.42,132035
+2017,Reagan,9-Midland,621,15.81,3928
+2017,Real,8-San Antonio,332,9.81,3386
+2017,Red River,4-Tyler,1377,10.84,12701
+2017,Reeves,9-Midland,1789,11.86,15081
+2017,Refugio,11-Edinburg,986,13.1,7529
+2017,Roberts,1-Lubbock,140,14.37,974
+2017,Robertson,7-Austin,2105,12.54,16791
+2017,Rockwall,3-Arlington,14937,15.8,94557
+2017,Runnels,2-Abilene,1420,13.12,10822
+2017,Rusk,4-Tyler,6570,12.41,52941
+2017,Sabine,5-Beaumont,1086,10.65,10201
+2017,San Augustine,5-Beaumont,869,10.17,8543
+2017,San Jacinto,5-Beaumont,3547,12.62,28106
+2017,San Patricio,11-Edinburg,10183,14.72,69197
+2017,San Saba,7-Austin,658,11.13,5910
+2017,Schleicher,9-Midland,500,15.19,3292
+2017,Scurry,2-Abilene,2520,14.08,17902
+2017,Shackelford,2-Abilene,452,13.36,3382
+2017,Shelby,5-Beaumont,3726,14.57,25574
+2017,Sherman,1-Lubbock,486,15.3,3177
+2017,Smith,4-Tyler,31592,13.87,227753
+2017,Somervell,3-Arlington,1130,12.55,9002
+2017,Starr,11-Edinburg,11101,17.41,63778
+2017,Stephens,2-Abilene,1218,12.73,9567
+2017,Sterling,9-Midland,149,12.23,1218
+2017,Stonewall,2-Abilene,186,12.31,1511
+2017,Sutton,9-Midland,528,12.29,4295
+2017,Swisher,1-Lubbock,1059,14.09,7515
+2017,Tarrant,3-Arlington,300816,14.74,2040538
+2017,Taylor,2-Abilene,18777,13.7,137105
+2017,Terrell,9-Midland,118,11.35,1040
+2017,Terry,1-Lubbock,1859,14.39,12915
+2017,Throckmorton,2-Abilene,174,11.24,1548
+2017,Titus,4-Tyler,5078,15.46,32855
+2017,Tom Green,9-Midland,14808,12.45,118925
+2017,Travis,7-Austin,149281,12.32,1211795
+2017,Trinity,5-Beaumont,1558,10.84,14371
+2017,Tyler,5-Beaumont,2275,10.61,21446
+2017,Upshur,4-Tyler,5415,13.24,40887
+2017,Upton,9-Midland,563,14.89,3780
+2017,Uvalde,8-San Antonio,4172,15.26,27339
+2017,Val Verde,8-San Antonio,7508,15.49,48482
+2017,Van Zandt,4-Tyler,6983,12.79,54600
+2017,Victoria,8-San Antonio,12928,13.73,94187
+2017,Walker,6-Houston,7025,9.8,71699
+2017,Waller,6-Houston,6802,14.07,48346
+2017,Ward,9-Midland,1968,15.69,12543
+2017,Washington,7-Austin,4378,12.62,34698
+2017,Webb,11-Edinburg,46516,17.36,267971
+2017,Wharton,6-Houston,6135,14.69,41777
+2017,Wheeler,1-Lubbock,790,13.91,5680
+2017,Wichita,2-Abilene,16066,12.11,132632
+2017,Wilbarger,2-Abilene,1774,13.46,13181
+2017,Willacy,11-Edinburg,3037,13.7,22174
+2017,Williamson,7-Austin,78932,14.77,534550
+2017,Wilson,8-San Antonio,6809,13.9,48995
+2017,Winkler,9-Midland,1328,15.61,8509
+2017,Wise,3-Arlington,8480,13.29,63820
+2017,Wood,4-Tyler,4958,11.18,44331
+2017,Yoakum,1-Lubbock,1511,17.26,8752
+2017,Young,2-Abilene,2400,12.88,18640
+2017,Zapata,11-Edinburg,2474,17.24,14353
+2017,Zavala,8-San Antonio,2069,16.73,12368
+2017,All Counties,All Regions,,,28245982
+2016,Anderson,4-Tyler,6419,10.99,58382
+2016,Andrews,9-Midland,3073,16.43,18708
+2016,Angelina,5-Beaumont,13166,14.76,89219
+2016,Aransas,11-Edinburg,2660,10.32,25763
+2016,Archer,2-Abilene,1122,13.07,8582
+2016,Armstrong,1-Lubbock,213,10.92,1951
+2016,Atascosa,8-San Antonio,7260,14.88,48782
+2016,Austin,6-Houston,3868,13.07,29603
+2016,Bailey,1-Lubbock,1289,17.27,7464
+2016,Bandera,8-San Antonio,2012,9.62,20912
+2016,Bastrop,7-Austin,11737,14.44,81259
+2016,Baylor,2-Abilene,450,12.33,3650
+2016,Bee,11-Edinburg,3998,11.98,33379
+2016,Bell,7-Austin,52081,15.45,337015
+2016,Bexar,8-San Antonio,277471,14.33,1935868
+2016,Blanco,7-Austin,1240,11.18,11094
+2016,Borden,9-Midland,63,9.45,667
+2016,Bosque,7-Austin,2174,12.14,17909
+2016,Bowie,4-Tyler,11758,12.7,92597
+2016,Brazoria,6-Houston,51523,14.73,349762
+2016,Brazos,7-Austin,25346,11.9,213043
+2016,Brewster,10-El Paso,1089,11.82,9214
+2016,Briscoe,1-Lubbock,187,11.78,1587
+2016,Brooks,11-Edinburg,1000,13.88,7203
+2016,Brown,2-Abilene,5094,13.17,38686
+2016,Burleson,7-Austin,2248,12.84,17507
+2016,Burnet,7-Austin,5732,12.47,45948
+2016,Caldwell,7-Austin,6200,14.88,41678
+2016,Calhoun,8-San Antonio,3147,14.12,22287
+2016,Callahan,2-Abilene,1649,12.26,13447
+2016,Cameron,11-Edinburg,73088,17.38,420614
+2016,Camp,4-Tyler,1856,14.32,12957
+2016,Carson,1-Lubbock,820,13.88,5906
+2016,Cass,4-Tyler,3790,12.44,30472
+2016,Castro,1-Lubbock,1142,15.31,7458
+2016,Chambers,6-Houston,5874,15.03,39083
+2016,Cherokee,4-Tyler,7611,14.71,51738
+2016,Childress,1-Lubbock,798,11.27,7079
+2016,Clay,2-Abilene,1151,11.32,10169
+2016,Cochran,1-Lubbock,511,15.87,3219
+2016,Coke,9-Midland,389,11.94,3257
+2016,Coleman,2-Abilene,1113,12.86,8656
+2016,Collin,3-Arlington,144996,15.59,930091
+2016,Collingsworth,1-Lubbock,443,14.17,3127
+2016,Colorado,6-Houston,2730,12.94,21097
+2016,Comal,8-San Antonio,16749,12.89,129967
+2016,Comanche,2-Abilene,1680,12.5,13437
+2016,Concho,9-Midland,310,7.53,4119
+2016,Cooke,3-Arlington,5248,13.38,39215
+2016,Coryell,7-Austin,11246,14.6,77013
+2016,Cottle,2-Abilene,199,13.21,1507
+2016,Crane,9-Midland,866,16.11,5376
+2016,Crockett,9-Midland,517,13.18,3922
+2016,Crosby,1-Lubbock,914,14.57,6274
+2016,Culberson,10-El Paso,264,11.45,2306
+2016,Dallam,1-Lubbock,1171,16.75,6993
+2016,Dallas,3-Arlington,382013,14.76,2587530
+2016,Dawson,9-Midland,1797,13.15,13666
+2016,DeWitt,8-San Antonio,2474,11.76,21030
+2016,Deaf Smith,1-Lubbock,3211,17.28,18578
+2016,Delta,4-Tyler,635,11.93,5323
+2016,Denton,3-Arlington,117204,14.74,795196
+2016,Dickens,1-Lubbock,226,10.12,2234
+2016,Dimmit,8-San Antonio,1789,16.33,10955
+2016,Donley,1-Lubbock,369,10.52,3509
+2016,Duval,11-Edinburg,1658,14.01,11836
+2016,Eastland,2-Abilene,2400,13.06,18379
+2016,Ector,9-Midland,26121,15.97,163571
+2016,Edwards,8-San Antonio,232,11.59,2002
+2016,El Paso,10-El Paso,131610,15.54,847036
+2016,Ellis,3-Arlington,25616,15.42,166103
+2016,Erath,3-Arlington,4892,12.28,39847
+2016,Falls,7-Austin,1996,11.68,17092
+2016,Fannin,3-Arlington,3982,11.61,34293
+2016,Fayette,7-Austin,3110,12.25,25383
+2016,Fisher,2-Abilene,457,11.51,3969
+2016,Floyd,1-Lubbock,847,14.16,5980
+2016,Foard,2-Abilene,132,10.43,1265
+2016,Fort Bend,6-Houston,112838,15.5,727754
+2016,Franklin,4-Tyler,1456,13.53,10763
+2016,Freestone,7-Austin,2530,12.74,19863
+2016,Frio,8-San Antonio,2525,13.4,18850
+2016,Gaines,9-Midland,3758,18.61,20194
+2016,Galveston,6-Houston,45283,13.78,328728
+2016,Garza,1-Lubbock,709,10.65,6659
+2016,Gillespie,8-San Antonio,2771,10.85,25547
+2016,Glasscock,9-Midland,178,13.63,1306
+2016,Goliad,8-San Antonio,916,12.18,7521
+2016,Gonzales,8-San Antonio,3056,14.7,20796
+2016,Gray,1-Lubbock,3183,13.58,23434
+2016,Grayson,3-Arlington,16990,13.33,127493
+2016,Gregg,4-Tyler,17645,14.18,124421
+2016,Grimes,7-Austin,3422,12.22,27998
+2016,Guadalupe,8-San Antonio,22284,14.53,153319
+2016,Hale,1-Lubbock,5292,15.36,34444
+2016,Hall,1-Lubbock,455,13.78,3303
+2016,Hamilton,7-Austin,1001,12.05,8305
+2016,Hansford,1-Lubbock,961,16.79,5723
+2016,Hardeman,2-Abilene,520,13.19,3942
+2016,Hardin,5-Beaumont,7798,13.95,55906
+2016,Harris,6-Houston,684634,14.83,4616802
+2016,Harrison,4-Tyler,9483,14.09,67300
+2016,Hartley,1-Lubbock,750,12.42,6040
+2016,Haskell,2-Abilene,696,11.56,6020
+2016,Hays,7-Austin,27312,13.68,199621
+2016,Hemphill,1-Lubbock,719,16.93,4246
+2016,Henderson,4-Tyler,9831,12.25,80279
+2016,Hidalgo,11-Edinburg,146639,17.63,831924
+2016,Hill,7-Austin,4705,13.24,35526
+2016,Hockley,1-Lubbock,3574,14.95,23905
+2016,Hood,3-Arlington,6373,11.46,55618
+2016,Hopkins,4-Tyler,4898,13.47,36353
+2016,Houston,5-Beaumont,2511,10.91,23026
+2016,Howard,9-Midland,4832,12.55,38504
+2016,Hudspeth,10-El Paso,464,13.62,3406
+2016,Hunt,3-Arlington,11860,12.99,91327
+2016,Hutchinson,1-Lubbock,3042,14.03,21682
+2016,Irion,9-Midland,175,11.43,1531
+2016,Jack,2-Abilene,1039,11.67,8905
+2016,Jackson,8-San Antonio,2099,13.85,15151
+2016,Jasper,5-Beaumont,4632,12.98,35696
+2016,Jeff Davis,10-El Paso,228,10.44,2183
+2016,Jefferson,5-Beaumont,31575,12.33,255994
+2016,Jim Hogg,11-Edinburg,798,15.44,5170
+2016,Jim Wells,11-Edinburg,6266,14.89,42090
+2016,Johnson,3-Arlington,23723,14.53,163278
+2016,Jones,2-Abilene,1955,9.84,19862
+2016,Karnes,8-San Antonio,1725,11.43,15097
+2016,Kaufman,3-Arlington,17323,14.95,115860
+2016,Kendall,8-San Antonio,5502,13.62,40398
+2016,Kenedy,11-Edinburg,50,11.09,451
+2016,Kent,2-Abilene,98,12.47,786
+2016,Kerr,8-San Antonio,5820,11.38,51140
+2016,Kimble,9-Midland,470,10.59,4440
+2016,King,1-Lubbock,37,12.42,298
+2016,Kinney,8-San Antonio,378,10.87,3477
+2016,Kleberg,11-Edinburg,4139,13.3,31129
+2016,Knox,2-Abilene,550,14.33,3838
+2016,La Salle,8-San Antonio,837,10.88,7695
+2016,Lamar,4-Tyler,6359,12.72,50006
+2016,Lamb,1-Lubbock,1942,14.67,13239
+2016,Lampasas,7-Austin,2565,12.55,20436
+2016,Lavaca,8-San Antonio,2590,12.96,19978
+2016,Lee,7-Austin,2486,14.45,17201
+2016,Leon,7-Austin,2083,12.03,17322
+2016,Liberty,6-Houston,10837,13.33,81282
+2016,Limestone,7-Austin,2939,12.5,23506
+2016,Lipscomb,1-Lubbock,483,13.82,3496
+2016,Live Oak,11-Edinburg,1348,11.41,11812
+2016,Llano,7-Austin,1667,8.61,19372
+2016,Loving,9-Midland,5,5.68,88
+2016,Lubbock,1-Lubbock,40332,13.46,299742
+2016,Lynn,1-Lubbock,789,13.87,5689
+2016,Madison,7-Austin,1703,12.04,14139
+2016,Marion,4-Tyler,1030,9.87,10433
+2016,Martin,9-Midland,845,15.38,5494
+2016,Mason,9-Midland,458,11.69,3919
+2016,Matagorda,6-Houston,5034,13.61,36991
+2016,Maverick,8-San Antonio,10101,17.51,57684
+2016,McCulloch,9-Midland,1112,13.1,8486
+2016,McLennan,7-Austin,36101,14.69,245791
+2016,McMullen,11-Edinburg,74,9.81,754
+2016,Medina,8-San Antonio,6625,13.61,48680
+2016,Menard,9-Midland,232,10.55,2200
+2016,Midland,9-Midland,24255,14.8,163923
+2016,Milam,7-Austin,3380,13.72,24642
+2016,Mills,7-Austin,588,12.06,4874
+2016,Mitchell,2-Abilene,1014,10.48,9678
+2016,Montague,2-Abilene,2359,12.16,19392
+2016,Montgomery,6-Houston,79689,14.62,545011
+2016,Moore,1-Lubbock,3581,16.49,21713
+2016,Morris,4-Tyler,1522,12.03,12649
+2016,Motley,1-Lubbock,135,11.38,1186
+2016,Nacogdoches,5-Beaumont,7008,11.02,63583
+2016,Navarro,3-Arlington,6705,13.99,47930
+2016,Newton,5-Beaumont,1589,11.36,13982
+2016,Nolan,2-Abilene,2241,14.52,15430
+2016,Nueces,11-Edinburg,50885,13.93,365409
+2016,Ochiltree,1-Lubbock,1838,16.94,10849
+2016,Oldham,1-Lubbock,449,20.86,2152
+2016,Orange,5-Beaumont,10963,12.98,84466
+2016,Palo Pinto,3-Arlington,3639,13.01,27978
+2016,Panola,4-Tyler,3374,13.87,24321
+2016,Parker,3-Arlington,17022,13.33,127694
+2016,Parmer,1-Lubbock,1476,15.39,9590
+2016,Pecos,9-Midland,2066,12.74,16219
+2016,Polk,5-Beaumont,5126,10.79,47485
+2016,Potter,1-Lubbock,17431,14.25,122365
+2016,Presidio,10-El Paso,912,13.92,6552
+2016,Rains,4-Tyler,1197,10.7,11187
+2016,Randall,1-Lubbock,17490,13.44,130159
+2016,Reagan,9-Midland,598,15.61,3831
+2016,Real,8-San Antonio,330,9.79,3370
+2016,Red River,4-Tyler,1402,11,12741
+2016,Reeves,9-Midland,1744,11.73,14869
+2016,Refugio,11-Edinburg,984,13.11,7505
+2016,Roberts,1-Lubbock,124,12.86,964
+2016,Robertson,7-Austin,2104,12.57,16744
+2016,Rockwall,3-Arlington,14780,16.04,92123
+2016,Runnels,2-Abilene,1393,12.93,10774
+2016,Rusk,4-Tyler,6543,12.35,52986
+2016,Sabine,5-Beaumont,1093,10.63,10283
+2016,San Augustine,5-Beaumont,902,10.51,8584
+2016,San Jacinto,5-Beaumont,3506,12.59,27842
+2016,San Patricio,11-Edinburg,10176,14.85,68542
+2016,San Saba,7-Austin,640,10.8,5925
+2016,Schleicher,9-Midland,500,15.19,3292
+2016,Scurry,2-Abilene,2461,13.87,17743
+2016,Shackelford,2-Abilene,443,13.13,3375
+2016,Shelby,5-Beaumont,3727,14.57,25582
+2016,Sherman,1-Lubbock,480,15.27,3143
+2016,Smith,4-Tyler,31224,13.86,225242
+2016,Somervell,3-Arlington,1140,12.78,8917
+2016,Starr,11-Edinburg,11158,17.59,63426
+2016,Stephens,2-Abilene,1217,12.7,9582
+2016,Sterling,9-Midland,144,11.91,1209
+2016,Stonewall,2-Abilene,183,12.15,1506
+2016,Sutton,9-Midland,546,12.83,4255
+2016,Swisher,1-Lubbock,1056,14,7541
+2016,Tarrant,3-Arlington,296257,14.76,2006888
+2016,Taylor,2-Abilene,18361,13.47,136337
+2016,Terrell,9-Midland,110,10.67,1031
+2016,Terry,1-Lubbock,1842,14.3,12877
+2016,Throckmorton,2-Abilene,179,11.54,1551
+2016,Titus,4-Tyler,5067,15.45,32805
+2016,Tom Green,9-Midland,14478,12.32,117499
+2016,Travis,7-Austin,146428,12.36,1184722
+2016,Trinity,5-Beaumont,1562,10.84,14404
+2016,Tyler,5-Beaumont,2296,10.69,21473
+2016,Upshur,4-Tyler,5336,13.12,40659
+2016,Upton,9-Midland,545,14.69,3711
+2016,Uvalde,8-San Antonio,4130,15.19,27181
+2016,Val Verde,8-San Antonio,7646,15.74,48564
+2016,Van Zandt,4-Tyler,7045,12.97,54304
+2016,Victoria,8-San Antonio,12808,13.77,93015
+2016,Walker,6-Houston,6836,9.63,71016
+2016,Waller,6-Houston,6553,13.78,47553
+2016,Ward,9-Midland,1893,15.49,12217
+2016,Washington,7-Austin,4347,12.58,34545
+2016,Webb,11-Edinburg,46479,17.53,265200
+2016,Wharton,6-Houston,6069,14.55,41709
+2016,Wheeler,1-Lubbock,781,13.84,5643
+2016,Wichita,2-Abilene,16141,12.19,132433
+2016,Wilbarger,2-Abilene,1788,13.53,13212
+2016,Willacy,11-Edinburg,3052,13.76,22184
+2016,Williamson,7-Austin,77169,14.92,517263
+2016,Wilson,8-San Antonio,6797,14.13,48091
+2016,Winkler,9-Midland,1274,15.39,8278
+2016,Wise,3-Arlington,8449,13.38,63146
+2016,Wood,4-Tyler,4937,11.22,44009
+2016,Yoakum,1-Lubbock,1507,17.53,8599
+2016,Young,2-Abilene,2417,12.99,18603
+2016,Zapata,11-Edinburg,2484,17.34,14327
+2016,Zavala,8-San Antonio,2066,16.83,12275
+2016,All Counties,All Regions,,,27782691
+2015,Anderson,4-Tyler,6341,10.86,58408
+2015,Andrews,9-Midland,2912,16.22,17952
+2015,Angelina,5-Beaumont,13044,14.68,88868
+2015,Aransas,11-Edinburg,2627,10.38,25302
+2015,Archer,2-Abilene,1138,13.15,8657
+2015,Armstrong,1-Lubbock,217,11.17,1942
+2015,Atascosa,8-San Antonio,7281,15.14,48087
+2015,Austin,6-Houston,3884,13.21,29394
+2015,Bailey,1-Lubbock,1255,16.93,7413
+2015,Bandera,8-San Antonio,2060,9.89,20830
+2015,Bastrop,7-Austin,11629,14.52,80082
+2015,Baylor,2-Abilene,443,12.11,3659
+2015,Bee,11-Edinburg,3972,12,33099
+2015,Bell,7-Austin,51193,15.38,332820
+2015,Bexar,8-San Antonio,273729,14.42,1897850
+2015,Blanco,7-Austin,1264,11.5,10988
+2015,Borden,9-Midland,69,10.45,660
+2015,Bosque,7-Austin,2209,12.31,17952
+2015,Bowie,4-Tyler,11741,12.68,92594
+2015,Brazoria,6-Houston,50787,14.79,343497
+2015,Brazos,7-Austin,24575,11.75,209233
+2015,Brewster,10-El Paso,1085,11.76,9228
+2015,Briscoe,1-Lubbock,176,11.05,1593
+2015,Brooks,11-Edinburg,1004,13.92,7213
+2015,Brown,2-Abilene,5135,13.31,38590
+2015,Burleson,7-Austin,2243,12.85,17458
+2015,Burnet,7-Austin,5724,12.61,45389
+2015,Caldwell,7-Austin,6111,14.89,41044
+2015,Calhoun,8-San Antonio,3121,14.09,22144
+2015,Callahan,2-Abilene,1666,12.37,13463
+2015,Cameron,11-Edinburg,73679,17.6,418541
+2015,Camp,4-Tyler,1865,14.5,12863
+2015,Carson,1-Lubbock,826,13.88,5952
+2015,Cass,4-Tyler,3819,12.53,30486
+2015,Castro,1-Lubbock,1198,15.87,7549
+2015,Chambers,6-Houston,5864,15.29,38356
+2015,Cherokee,4-Tyler,7523,14.58,51614
+2015,Childress,1-Lubbock,793,11.21,7071
+2015,Clay,2-Abilene,1177,11.47,10260
+2015,Cochran,1-Lubbock,502,15.74,3189
+2015,Coke,9-Midland,387,11.84,3268
+2015,Coleman,2-Abilene,1138,13.09,8696
+2015,Collin,3-Arlington,142086,15.71,904421
+2015,Collingsworth,1-Lubbock,432,13.91,3106
+2015,Colorado,6-Houston,2738,13.01,21046
+2015,Comal,8-San Antonio,16394,13.01,126054
+2015,Comanche,2-Abilene,1716,12.69,13521
+2015,Concho,9-Midland,309,7.53,4102
+2015,Cooke,3-Arlington,5265,13.47,39082
+2015,Coryell,7-Austin,11066,14.42,76750
+2015,Cottle,2-Abilene,197,13.11,1503
+2015,Crane,9-Midland,847,16.32,5190
+2015,Crockett,9-Midland,521,13.4,3887
+2015,Crosby,1-Lubbock,904,14.5,6235
+2015,Culberson,10-El Paso,284,12.25,2319
+2015,Dallam,1-Lubbock,1122,16.16,6943
+2015,Dallas,3-Arlington,376197,14.75,2551029
+2015,Dawson,9-Midland,1753,12.82,13671
+2015,DeWitt,8-San Antonio,2461,11.8,20855
+2015,Deaf Smith,1-Lubbock,3257,17.42,18697
+2015,Delta,4-Tyler,616,11.62,5299
+2015,Denton,3-Arlington,113878,14.76,771688
+2015,Dickens,1-Lubbock,227,10.05,2258
+2015,Dimmit,8-San Antonio,1735,16.11,10769
+2015,Donley,1-Lubbock,376,10.67,3524
+2015,Duval,11-Edinburg,1680,14.21,11824
+2015,Eastland,2-Abilene,2366,12.85,18411
+2015,Ector,9-Midland,25353,15.97,158753
+2015,Edwards,8-San Antonio,219,10.97,1997
+2015,El Paso,10-El Paso,132353,15.76,839545
+2015,Ellis,3-Arlington,25406,15.56,163301
+2015,Erath,3-Arlington,4764,12.07,39471
+2015,Falls,7-Austin,2005,11.64,17223
+2015,Fannin,3-Arlington,3999,11.68,34231
+2015,Fayette,7-Austin,3108,12.32,25219
+2015,Fisher,2-Abilene,454,11.46,3963
+2015,Floyd,1-Lubbock,867,14.38,6031
+2015,Foard,2-Abilene,139,10.94,1270
+2015,Fort Bend,6-Houston,110272,15.71,702044
+2015,Franklin,4-Tyler,1455,13.56,10730
+2015,Freestone,7-Austin,2537,12.78,19847
+2015,Frio,8-San Antonio,2467,13.29,18565
+2015,Gaines,9-Midland,3627,18.38,19735
+2015,Galveston,6-Houston,44657,13.86,322292
+2015,Garza,1-Lubbock,718,10.85,6615
+2015,Gillespie,8-San Antonio,2799,11.02,25393
+2015,Glasscock,9-Midland,181,14.03,1290
+2015,Goliad,8-San Antonio,939,12.55,7485
+2015,Gonzales,8-San Antonio,3032,14.68,20651
+2015,Gray,1-Lubbock,3107,13.37,23242
+2015,Grayson,3-Arlington,16774,13.27,126409
+2015,Gregg,4-Tyler,17525,14.13,124043
+2015,Grimes,7-Austin,3398,12.24,27755
+2015,Guadalupe,8-San Antonio,22047,14.76,149395
+2015,Hale,1-Lubbock,5375,15.48,34731
+2015,Hall,1-Lubbock,451,13.65,3303
+2015,Hamilton,7-Austin,1033,12.39,8338
+2015,Hansford,1-Lubbock,943,16.55,5698
+2015,Hardeman,2-Abilene,528,13.32,3963
+2015,Hardin,5-Beaumont,7885,14.15,55738
+2015,Harris,6-Houston,673796,14.88,4527909
+2015,Harrison,4-Tyler,9435,14.08,67021
+2015,Hartley,1-Lubbock,741,12.29,6029
+2015,Haskell,2-Abilene,691,11.55,5983
+2015,Hays,7-Austin,26236,13.68,191851
+2015,Hemphill,1-Lubbock,699,16.84,4151
+2015,Henderson,4-Tyler,9856,12.32,80005
+2015,Hidalgo,11-Edinburg,145848,17.74,822205
+2015,Hill,7-Austin,4737,13.35,35475
+2015,Hockley,1-Lubbock,3523,14.85,23723
+2015,Hood,3-Arlington,6260,11.41,54870
+2015,Hopkins,4-Tyler,4850,13.41,36161
+2015,Houston,5-Beaumont,2526,10.92,23135
+2015,Howard,9-Midland,4779,12.62,37856
+2015,Hudspeth,10-El Paso,475,13.93,3410
+2015,Hunt,3-Arlington,11730,12.98,90372
+2015,Hutchinson,1-Lubbock,3057,14.06,21747
+2015,Irion,9-Midland,179,11.65,1537
+2015,Jack,2-Abilene,1054,11.8,8933
+2015,Jackson,8-San Antonio,2058,13.75,14965
+2015,Jasper,5-Beaumont,4633,12.97,35716
+2015,Jeff Davis,10-El Paso,231,10.51,2198
+2015,Jefferson,5-Beaumont,31616,12.38,255300
+2015,Jim Hogg,11-Edinburg,781,15.05,5190
+2015,Jim Wells,11-Edinburg,6279,14.99,41884
+2015,Johnson,3-Arlington,23650,14.67,161209
+2015,Jones,2-Abilene,1961,9.85,19905
+2015,Karnes,8-San Antonio,1672,11.12,15034
+2015,Kaufman,3-Arlington,17058,15.01,113657
+2015,Kendall,8-San Antonio,5347,13.68,39084
+2015,Kenedy,11-Edinburg,53,11.91,445
+2015,Kent,2-Abilene,102,12.93,789
+2015,Kerr,8-San Antonio,5814,11.43,50864
+2015,Kimble,9-Midland,483,10.82,4464
+2015,King,1-Lubbock,41,13.9,295
+2015,Kinney,8-San Antonio,371,10.64,3486
+2015,Kleberg,11-Edinburg,4092,13.1,31225
+2015,Knox,2-Abilene,542,14.21,3813
+2015,La Salle,8-San Antonio,829,10.97,7556
+2015,Lamar,4-Tyler,6417,12.84,49980
+2015,Lamb,1-Lubbock,1979,14.82,13356
+2015,Lampasas,7-Austin,2565,12.64,20295
+2015,Lavaca,8-San Antonio,2522,12.73,19818
+2015,Lee,7-Austin,2473,14.46,17102
+2015,Leon,7-Austin,2084,12.1,17227
+2015,Liberty,6-Houston,10814,13.47,80287
+2015,Limestone,7-Austin,2946,12.55,23481
+2015,Lipscomb,1-Lubbock,480,13.88,3459
+2015,Live Oak,11-Edinburg,1330,11.32,11748
+2015,Llano,7-Austin,1679,8.68,19348
+2015,Loving,9-Midland,5,5.75,87
+2015,Lubbock,1-Lubbock,39818,13.46,295763
+2015,Lynn,1-Lubbock,818,14.31,5716
+2015,Madison,7-Austin,1706,12.14,14054
+2015,Marion,4-Tyler,1056,10.1,10458
+2015,Martin,9-Midland,840,15.65,5367
+2015,Mason,9-Midland,464,11.81,3928
+2015,Matagorda,6-Houston,5093,13.79,36932
+2015,Maverick,8-San Antonio,10077,17.65,57107
+2015,McCulloch,9-Midland,1127,13.34,8448
+2015,McLennan,7-Austin,35787,14.67,243882
+2015,McMullen,11-Edinburg,82,10.99,746
+2015,Medina,8-San Antonio,6615,13.72,48221
+2015,Menard,9-Midland,229,10.41,2199
+2015,Midland,9-Midland,23437,14.76,158745
+2015,Milam,7-Austin,3404,13.82,24634
+2015,Mills,7-Austin,588,12.06,4875
+2015,Mitchell,2-Abilene,1032,10.73,9622
+2015,Montague,2-Abilene,2423,12.46,19446
+2015,Montgomery,6-Houston,77562,14.66,529079
+2015,Moore,1-Lubbock,3580,16.47,21734
+2015,Morris,4-Tyler,1534,12.08,12698
+2015,Motley,1-Lubbock,143,12.01,1191
+2015,Nacogdoches,5-Beaumont,7071,11.13,63548
+2015,Navarro,3-Arlington,6739,14.07,47908
+2015,Newton,5-Beaumont,1639,11.66,14051
+2015,Nolan,2-Abilene,2193,14.26,15376
+2015,Nueces,11-Edinburg,50451,13.98,360992
+2015,Ochiltree,1-Lubbock,1793,16.7,10737
+2015,Oldham,1-Lubbock,472,22.06,2140
+2015,Orange,5-Beaumont,10953,13.03,84037
+2015,Palo Pinto,3-Arlington,3668,13.11,27979
+2015,Panola,4-Tyler,3374,13.92,24238
+2015,Parker,3-Arlington,16940,13.46,125811
+2015,Parmer,1-Lubbock,1508,15.55,9697
+2015,Pecos,9-Midland,2043,12.67,16119
+2015,Polk,5-Beaumont,5141,10.92,47077
+2015,Potter,1-Lubbock,17381,14.22,122204
+2015,Presidio,10-El Paso,970,14.42,6726
+2015,Rains,4-Tyler,1244,11.16,11147
+2015,Randall,1-Lubbock,17260,13.45,128364
+2015,Reagan,9-Midland,584,15.62,3739
+2015,Real,8-San Antonio,327,9.72,3364
+2015,Red River,4-Tyler,1412,11.06,12770
+2015,Reeves,9-Midland,1742,11.86,14686
+2015,Refugio,11-Edinburg,990,13.24,7475
+2015,Roberts,1-Lubbock,129,13.51,955
+2015,Robertson,7-Austin,2089,12.5,16713
+2015,Rockwall,3-Arlington,14633,16.31,89731
+2015,Runnels,2-Abilene,1419,13.23,10726
+2015,Rusk,4-Tyler,6528,12.31,53046
+2015,Sabine,5-Beaumont,1078,10.39,10372
+2015,San Augustine,5-Beaumont,925,10.72,8631
+2015,San Jacinto,5-Beaumont,3543,12.84,27583
+2015,San Patricio,11-Edinburg,10167,14.98,67868
+2015,San Saba,7-Austin,628,10.56,5945
+2015,Schleicher,9-Midland,512,15.53,3296
+2015,Scurry,2-Abilene,2377,13.51,17598
+2015,Shackelford,2-Abilene,441,13.09,3370
+2015,Shelby,5-Beaumont,3702,14.49,25552
+2015,Sherman,1-Lubbock,484,15.51,3120
+2015,Smith,4-Tyler,31000,13.92,222690
+2015,Somervell,3-Arlington,1164,13.18,8832
+2015,Starr,11-Edinburg,11254,17.85,63044
+2015,Stephens,2-Abilene,1227,12.8,9589
+2015,Sterling,9-Midland,142,11.84,1199
+2015,Stonewall,2-Abilene,181,12.08,1498
+2015,Sutton,9-Midland,553,13.1,4221
+2015,Swisher,1-Lubbock,1047,13.82,7576
+2015,Tarrant,3-Arlington,292006,14.8,1973526
+2015,Taylor,2-Abilene,18136,13.38,135587
+2015,Terrell,9-Midland,112,10.96,1022
+2015,Terry,1-Lubbock,1817,14.16,12834
+2015,Throckmorton,2-Abilene,173,11.12,1556
+2015,Titus,4-Tyler,5046,15.42,32731
+2015,Tom Green,9-Midland,14367,12.37,116140
+2015,Travis,7-Austin,143405,12.39,1157447
+2015,Trinity,5-Beaumont,1557,10.79,14429
+2015,Tyler,5-Beaumont,2274,10.58,21503
+2015,Upshur,4-Tyler,5309,13.13,40422
+2015,Upton,9-Midland,551,15.12,3645
+2015,Uvalde,8-San Antonio,4134,15.29,27040
+2015,Val Verde,8-San Antonio,7719,15.87,48649
+2015,Van Zandt,4-Tyler,7081,13.11,54009
+2015,Victoria,8-San Antonio,12670,13.79,91894
+2015,Walker,6-Houston,6683,9.49,70407
+2015,Waller,6-Houston,6349,13.57,46782
+2015,Ward,9-Midland,1822,15.29,11914
+2015,Washington,7-Austin,4308,12.53,34373
+2015,Webb,11-Edinburg,46531,17.73,262486
+2015,Wharton,6-Houston,6067,14.57,41645
+2015,Wheeler,1-Lubbock,766,13.68,5599
+2015,Wichita,2-Abilene,16206,12.26,132213
+2015,Wilbarger,2-Abilene,1804,13.6,13266
+2015,Willacy,11-Edinburg,3103,14,22166
+2015,Williamson,7-Austin,75274,15.04,500485
+2015,Wilson,8-San Antonio,6804,14.41,47206
+2015,Winkler,9-Midland,1232,15.28,8062
+2015,Wise,3-Arlington,8452,13.53,62467
+2015,Wood,4-Tyler,4913,11.25,43677
+2015,Yoakum,1-Lubbock,1447,17.13,8449
+2015,Young,2-Abilene,2442,13.15,18571
+2015,Zapata,11-Edinburg,2508,17.56,14282
+2015,Zavala,8-San Antonio,2024,16.62,12180
+2015,All Counties,All Regions,,,27326193
+2014,Anderson,4-Tyler,6334,10.84,58428
+2014,Andrews,9-Midland,2760,16.02,17229
+2014,Angelina,5-Beaumont,13051,14.75,88489
+2014,Aransas,11-Edinburg,2587,10.41,24851
+2014,Archer,2-Abilene,1162,13.32,8725
+2014,Armstrong,1-Lubbock,208,10.79,1928
+2014,Atascosa,8-San Antonio,7229,15.25,47394
+2014,Austin,6-Houston,3881,13.29,29208
+2014,Bailey,1-Lubbock,1218,16.56,7356
+2014,Bandera,8-San Antonio,2126,10.24,20763
+2014,Bastrop,7-Austin,11460,14.53,78891
+2014,Baylor,2-Abilene,435,11.86,3669
+2014,Bee,11-Edinburg,3938,11.99,32839
+2014,Bell,7-Austin,50180,15.28,328465
+2014,Bexar,8-San Antonio,270763,14.56,1860266
+2014,Blanco,7-Austin,1285,11.8,10886
+2014,Borden,9-Midland,68,10.37,656
+2014,Bosque,7-Austin,2217,12.32,17998
+2014,Bowie,4-Tyler,11734,12.67,92584
+2014,Brazoria,6-Houston,49904,14.8,337303
+2014,Brazos,7-Austin,23782,11.54,206096
+2014,Brewster,10-El Paso,1100,11.92,9230
+2014,Briscoe,1-Lubbock,177,11.06,1600
+2014,Brooks,11-Edinburg,1015,14.06,7221
+2014,Brown,2-Abilene,5163,13.41,38495
+2014,Burleson,7-Austin,2237,12.85,17414
+2014,Burnet,7-Austin,5676,12.66,44838
+2014,Caldwell,7-Austin,6003,14.85,40432
+2014,Calhoun,8-San Antonio,3167,14.4,21996
+2014,Callahan,2-Abilene,1706,12.65,13488
+2014,Cameron,11-Edinburg,73862,17.74,416308
+2014,Camp,4-Tyler,1851,14.51,12758
+2014,Carson,1-Lubbock,832,13.89,5989
+2014,Cass,4-Tyler,3842,12.6,30489
+2014,Castro,1-Lubbock,1233,16.15,7637
+2014,Chambers,6-Houston,5805,15.42,37652
+2014,Cherokee,4-Tyler,7460,14.5,51438
+2014,Childress,1-Lubbock,802,11.36,7062
+2014,Clay,2-Abilene,1213,11.71,10361
+2014,Cochran,1-Lubbock,498,15.73,3165
+2014,Coke,9-Midland,405,12.36,3278
+2014,Coleman,2-Abilene,1128,12.92,8730
+2014,Collin,3-Arlington,138499,15.75,879201
+2014,Collingsworth,1-Lubbock,439,14.19,3093
+2014,Colorado,6-Houston,2757,13.12,21009
+2014,Comal,8-San Antonio,16053,13.13,122263
+2014,Comanche,2-Abilene,1720,12.64,13607
+2014,Concho,9-Midland,281,6.86,4095
+2014,Cooke,3-Arlington,5312,13.64,38942
+2014,Coryell,7-Austin,11050,14.45,76474
+2014,Cottle,2-Abilene,207,13.79,1501
+2014,Crane,9-Midland,813,16.23,5010
+2014,Crockett,9-Midland,518,13.46,3849
+2014,Crosby,1-Lubbock,905,14.64,6182
+2014,Culberson,10-El Paso,301,12.92,2330
+2014,Dallam,1-Lubbock,1119,16.26,6884
+2014,Dallas,3-Arlington,371258,14.77,2514350
+2014,Dawson,9-Midland,1750,12.78,13697
+2014,DeWitt,8-San Antonio,2479,11.98,20693
+2014,Deaf Smith,1-Lubbock,3267,17.37,18813
+2014,Delta,4-Tyler,625,11.83,5281
+2014,Denton,3-Arlington,110550,14.76,748901
+2014,Dickens,1-Lubbock,224,9.81,2283
+2014,Dimmit,8-San Antonio,1695,15.99,10598
+2014,Donley,1-Lubbock,396,11.18,3542
+2014,Duval,11-Edinburg,1656,14.01,11819
+2014,Eastland,2-Abilene,2398,13,18445
+2014,Ector,9-Midland,24446,15.87,154070
+2014,Edwards,8-San Antonio,209,10.48,1995
+2014,El Paso,10-El Paso,133369,16.03,831949
+2014,Ellis,3-Arlington,25271,15.74,160531
+2014,Erath,3-Arlington,4700,12.01,39123
+2014,Falls,7-Austin,2036,11.74,17347
+2014,Fannin,3-Arlington,3986,11.67,34147
+2014,Fayette,7-Austin,3089,12.32,25067
+2014,Fisher,2-Abilene,454,11.49,3952
+2014,Floyd,1-Lubbock,897,14.73,6090
+2014,Foard,2-Abilene,141,11.07,1274
+2014,Fort Bend,6-Houston,107576,15.89,677179
+2014,Franklin,4-Tyler,1416,13.23,10700
+2014,Freestone,7-Austin,2541,12.81,19830
+2014,Frio,8-San Antonio,2429,13.29,18282
+2014,Gaines,9-Midland,3502,18.17,19269
+2014,Galveston,6-Houston,43902,13.9,315903
+2014,Garza,1-Lubbock,718,10.91,6580
+2014,Gillespie,8-San Antonio,2822,11.17,25273
+2014,Glasscock,9-Midland,178,13.98,1273
+2014,Goliad,8-San Antonio,928,12.51,7420
+2014,Gonzales,8-San Antonio,3026,14.78,20473
+2014,Gray,1-Lubbock,3007,13.03,23083
+2014,Grayson,3-Arlington,16630,13.27,125302
+2014,Gregg,4-Tyler,17289,13.99,123613
+2014,Grimes,7-Austin,3360,12.21,27526
+2014,Guadalupe,8-San Antonio,21670,14.89,145580
+2014,Hale,1-Lubbock,5426,15.48,35055
+2014,Hall,1-Lubbock,466,14.11,3303
+2014,Hamilton,7-Austin,1055,12.6,8370
+2014,Hansford,1-Lubbock,923,16.28,5669
+2014,Hardeman,2-Abilene,534,13.41,3983
+2014,Hardin,5-Beaumont,7856,14.14,55546
+2014,Harris,6-Houston,662437,14.92,4439257
+2014,Harrison,4-Tyler,9422,14.11,66764
+2014,Hartley,1-Lubbock,731,12.14,6020
+2014,Haskell,2-Abilene,681,11.44,5952
+2014,Hays,7-Austin,25133,13.63,184417
+2014,Hemphill,1-Lubbock,658,16.16,4073
+2014,Henderson,4-Tyler,9868,12.38,79723
+2014,Hidalgo,11-Edinburg,145003,17.84,812661
+2014,Hill,7-Austin,4780,13.5,35396
+2014,Hockley,1-Lubbock,3504,14.89,23530
+2014,Hood,3-Arlington,6187,11.44,54101
+2014,Hopkins,4-Tyler,4849,13.49,35958
+2014,Houston,5-Beaumont,2500,10.76,23236
+2014,Howard,9-Midland,4608,12.38,37225
+2014,Hudspeth,10-El Paso,491,14.39,3411
+2014,Hunt,3-Arlington,11779,13.17,89458
+2014,Hutchinson,1-Lubbock,3052,13.99,21823
+2014,Irion,9-Midland,194,12.55,1546
+2014,Jack,2-Abilene,1077,12.03,8949
+2014,Jackson,8-San Antonio,2061,13.95,14777
+2014,Jasper,5-Beaumont,4637,12.98,35727
+2014,Jeff Davis,10-El Paso,238,10.76,2212
+2014,Jefferson,5-Beaumont,31729,12.46,254671
+2014,Jim Hogg,11-Edinburg,810,15.55,5210
+2014,Jim Wells,11-Edinburg,6342,15.22,41678
+2014,Johnson,3-Arlington,23429,14.72,159112
+2014,Jones,2-Abilene,1976,9.9,19955
+2014,Karnes,8-San Antonio,1686,11.26,14978
+2014,Kaufman,3-Arlington,16905,15.16,111494
+2014,Kendall,8-San Antonio,5174,13.68,37826
+2014,Kenedy,11-Edinburg,56,12.76,439
+2014,Kent,2-Abilene,105,13.26,792
+2014,Kerr,8-San Antonio,5764,11.39,50604
+2014,Kimble,9-Midland,500,11.14,4487
+2014,King,1-Lubbock,41,14.04,292
+2014,Kinney,8-San Antonio,395,11.29,3499
+2014,Kleberg,11-Edinburg,4065,12.96,31366
+2014,Knox,2-Abilene,515,13.6,3786
+2014,La Salle,8-San Antonio,835,11.25,7421
+2014,Lamar,4-Tyler,6446,12.91,49938
+2014,Lamb,1-Lubbock,2018,14.98,13474
+2014,Lampasas,7-Austin,2588,12.83,20169
+2014,Lavaca,8-San Antonio,2483,12.61,19683
+2014,Lee,7-Austin,2496,14.68,17007
+2014,Leon,7-Austin,2081,12.15,17123
+2014,Liberty,6-Houston,10816,13.64,79318
+2014,Limestone,7-Austin,2995,12.76,23463
+2014,Lipscomb,1-Lubbock,487,14.22,3425
+2014,Live Oak,11-Edinburg,1323,11.32,11688
+2014,Llano,7-Austin,1703,8.81,19323
+2014,Loving,9-Midland,6,6.98,86
+2014,Lubbock,1-Lubbock,39016,13.35,292195
+2014,Lynn,1-Lubbock,835,14.55,5737
+2014,Madison,7-Austin,1695,12.14,13960
+2014,Marion,4-Tyler,1069,10.2,10478
+2014,Martin,9-Midland,830,15.85,5237
+2014,Mason,9-Midland,473,11.98,3949
+2014,Matagorda,6-Houston,5116,13.87,36887
+2014,Maverick,8-San Antonio,10074,17.82,56529
+2014,McCulloch,9-Midland,1105,13.17,8393
+2014,McLennan,7-Austin,35559,14.69,242012
+2014,McMullen,11-Edinburg,77,10.43,738
+2014,Medina,8-San Antonio,6651,13.92,47769
+2014,Menard,9-Midland,218,9.88,2206
+2014,Midland,9-Midland,22688,14.75,153832
+2014,Milam,7-Austin,3416,13.86,24653
+2014,Mills,7-Austin,619,12.69,4879
+2014,Mitchell,2-Abilene,1036,10.81,9581
+2014,Montague,2-Abilene,2433,12.47,19508
+2014,Montgomery,6-Houston,75710,14.74,513529
+2014,Moore,1-Lubbock,3582,16.46,21762
+2014,Morris,4-Tyler,1587,12.45,12743
+2014,Motley,1-Lubbock,144,12.03,1197
+2014,Nacogdoches,5-Beaumont,7176,11.28,63644
+2014,Navarro,3-Arlington,6834,14.27,47876
+2014,Newton,5-Beaumont,1691,11.98,14117
+2014,Nolan,2-Abilene,2159,14.08,15334
+2014,Nueces,11-Edinburg,50069,14.04,356712
+2014,Ochiltree,1-Lubbock,1756,16.53,10626
+2014,Oldham,1-Lubbock,489,23.07,2120
+2014,Orange,5-Beaumont,11012,13.17,83588
+2014,Palo Pinto,3-Arlington,3662,13.08,28006
+2014,Panola,4-Tyler,3349,13.86,24155
+2014,Parker,3-Arlington,16810,13.56,123954
+2014,Parmer,1-Lubbock,1532,15.63,9801
+2014,Pecos,9-Midland,2019,12.63,15984
+2014,Polk,5-Beaumont,5201,11.14,46700
+2014,Potter,1-Lubbock,17358,14.23,121993
+2014,Presidio,10-El Paso,1016,14.69,6918
+2014,Rains,4-Tyler,1278,11.51,11102
+2014,Randall,1-Lubbock,17085,13.49,126686
+2014,Reagan,9-Midland,596,16.31,3655
+2014,Real,8-San Antonio,352,10.49,3357
+2014,Red River,4-Tyler,1453,11.36,12789
+2014,Reeves,9-Midland,1758,12.14,14483
+2014,Refugio,11-Edinburg,993,13.32,7454
+2014,Roberts,1-Lubbock,124,13.11,946
+2014,Robertson,7-Austin,2130,12.75,16704
+2014,Rockwall,3-Arlington,14309,16.38,87381
+2014,Runnels,2-Abilene,1443,13.52,10674
+2014,Rusk,4-Tyler,6484,12.21,53097
+2014,Sabine,5-Beaumont,1089,10.41,10462
+2014,San Augustine,5-Beaumont,932,10.76,8660
+2014,San Jacinto,5-Beaumont,3527,12.9,27337
+2014,San Patricio,11-Edinburg,10080,15,67203
+2014,San Saba,7-Austin,662,11.1,5965
+2014,Schleicher,9-Midland,500,15.13,3305
+2014,Scurry,2-Abilene,2350,13.47,17441
+2014,Shackelford,2-Abilene,427,12.72,3356
+2014,Shelby,5-Beaumont,3671,14.37,25542
+2014,Sherman,1-Lubbock,476,15.37,3096
+2014,Smith,4-Tyler,30818,14,220076
+2014,Somervell,3-Arlington,1216,13.91,8744
+2014,Starr,11-Edinburg,11336,18.09,62651
+2014,Stephens,2-Abilene,1236,12.9,9583
+2014,Sterling,9-Midland,150,12.62,1189
+2014,Stonewall,2-Abilene,179,11.98,1494
+2014,Sutton,9-Midland,570,13.61,4187
+2014,Swisher,1-Lubbock,1039,13.65,7613
+2014,Tarrant,3-Arlington,287699,14.83,1940281
+2014,Taylor,2-Abilene,17794,13.2,134797
+2014,Terrell,9-Midland,112,11.1,1009
+2014,Terry,1-Lubbock,1810,14.15,12790
+2014,Throckmorton,2-Abilene,175,11.14,1571
+2014,Titus,4-Tyler,5117,15.67,32663
+2014,Tom Green,9-Midland,14137,12.31,114841
+2014,Travis,7-Austin,140263,12.41,1130447
+2014,Trinity,5-Beaumont,1583,10.95,14459
+2014,Tyler,5-Beaumont,2275,10.56,21547
+2014,Upshur,4-Tyler,5316,13.22,40201
+2014,Upton,9-Midland,545,15.21,3583
+2014,Uvalde,8-San Antonio,4117,15.32,26870
+2014,Val Verde,8-San Antonio,7718,15.84,48718
+2014,Van Zandt,4-Tyler,7106,13.23,53704
+2014,Victoria,8-San Antonio,12570,13.84,90819
+2014,Walker,6-Houston,6516,9.33,69862
+2014,Waller,6-Houston,6197,13.47,46013
+2014,Ward,9-Midland,1773,15.25,11630
+2014,Washington,7-Austin,4242,12.4,34207
+2014,Webb,11-Edinburg,46478,17.88,259968
+2014,Wharton,6-Houston,6042,14.53,41583
+2014,Wheeler,1-Lubbock,752,13.52,5562
+2014,Wichita,2-Abilene,16410,12.43,132009
+2014,Wilbarger,2-Abilene,1833,13.78,13301
+2014,Willacy,11-Edinburg,3129,14.12,22154
+2014,Williamson,7-Austin,73308,15.14,484096
+2014,Wilson,8-San Antonio,6756,14.58,46322
+2014,Winkler,9-Midland,1231,15.69,7844
+2014,Wise,3-Arlington,8489,13.74,61785
+2014,Wood,4-Tyler,4935,11.39,43328
+2014,Yoakum,1-Lubbock,1409,16.94,8318
+2014,Young,2-Abilene,2447,13.18,18561
+2014,Zapata,11-Edinburg,2487,17.46,14240
+2014,Zavala,8-San Antonio,1973,16.35,12065
+2014,All Counties,All Regions,,,26876429
